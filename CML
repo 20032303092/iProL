@@ -1,0 +1,3 @@
+cd ~/Documents/pbc/iProL/src
+nohup jupyter notebook > ../jupyter_log/jupyter.log 2>&1 &
+nohup ipython -c "%run ./main_iProL.ipynb" > ../jupyter_log/out.txt 2>&1 &
