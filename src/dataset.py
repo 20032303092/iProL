@@ -2,7 +2,7 @@ import os
 
 import numpy as np
 import pandas as pd
-from sklearn.model_selection import StratifiedKFold
+from sklearn.model_selection import train_test_split, StratifiedKFold
 from torch.utils.data import Dataset, DataLoader
 
 from feature_extraction import Kmer
@@ -126,12 +126,140 @@ def _feature_exaction(config, dataset, pred):
     return [train_loader, test_loader]
 
 
+def feature_exaction(config, dataset, pred):
+    return _feature_exaction(config, dataset, pred)
+
+
 def __del_rows(dataset: pd, column, value):
     if isinstance(value, str):
         value = [value]
     # print('del:', column, value)
     dataset_new = dataset[~dataset[column].isin(value)]
     return dataset_new
+
+
+def get_first_level_train_test(sheet, random_state=None, independent_test_size=0.2):
+    """
+    to make same train data and test data in three tasks,
+    and then we will do next step split by specific split type
+    :param sheet: the complete data (N, 4)
+    :param random_state:
+    :param independent_test_size:
+    :return: train data (N1, 4), and independent test data (N2, 4)
+    """
+
+    """
+    Step1 split base_data to train and independent test
+    """
+    train, independent_test, _, _ = train_test_split(sheet, sheet[['Pro']],
+                                                     stratify=sheet[['Pro']],
+                                                     random_state=random_state,
+                                                     shuffle=True, test_size=independent_test_size)
+    return [train, independent_test]
+
+
+def _get_dataset_by_train_test(first_level_train_test):
+    """
+    Step1 split base_data to train and independent test
+    """
+    # train, independent_test = get_first_level_train_test(random_state=random_state,
+    #                                                      independent_test_size=independent_test_size)
+    if len(first_level_train_test) != 2:
+        raise ValueError("first level dataset must include train and independent_test")
+    train, independent_test = first_level_train_test[0], first_level_train_test[1]
+    """
+    Step2 get dataset from `train` and `independent_test` to predict Pro/non_pro
+    """
+    train_identify = train[['Pro_seq', 'Pro']]
+    independent_test_identify = independent_test[['Pro_seq', 'Pro']]
+
+    # del non_pro
+    train = __del_rows(train, "Sigma", ["non_pro"])
+    independent_test = __del_rows(independent_test, "Sigma", ["non_pro"])
+
+    """
+    Step4 get dataset from `train` and `independent_test` to predict pro level
+    """
+    # del confirmed in column Con_level
+    train = __del_rows(train, "Con_level", "Confirmed")
+    independent_test = __del_rows(independent_test, "Con_level", "Confirmed")
+    train_level = train[['Pro_seq', 'Con_level']]
+    independent_test_level = independent_test[['Pro_seq', 'Con_level']]
+
+    """
+    Step3 get dataset from `train` and `independent_test` to predict pro type
+    """
+    # del unknown and non_pro in column Sigma
+    train = __del_rows(train, "Sigma", ["unknown"])
+    independent_test = __del_rows(independent_test, "Sigma", ["unknown"])
+    train_type = train[['Pro_seq', 'Sigma']]
+    independent_test_type = independent_test[['Pro_seq', 'Sigma']]
+
+    return [train_identify, independent_test_identify], \
+        [train_type, independent_test_type], \
+        [train_level, independent_test_level]
+
+
+def _get_dataset_by_train_val_test(first_level_train_test, random_state=None, val_test_size=0.5):
+    # train, independent_test = get_first_level_train_test(random_state=random_state,
+    #                                                      independent_test_size=independent_test_size)
+    if len(first_level_train_test) != 2:
+        raise ValueError("first level dataset must include train and independent_test")
+    train, independent_test = first_level_train_test[0], first_level_train_test[1]
+
+    """
+    Step1 train set is not changed, split independent_test into val and test_new
+    """
+    # drop single sample in a composition class
+    Confirmed_test_X = independent_test[independent_test['Con_level'] == 'Confirmed']
+    if Confirmed_test_X.size != 0:
+        index1 = Confirmed_test_X[Confirmed_test_X.Sigma == 'unknown'].index.tolist()[0]
+        independent_test.drop(index=[index1], inplace=True)
+    # split
+    val, independent_test, _, _ = train_test_split(independent_test,
+                                                   independent_test[['Sigma', 'Con_level', 'Pro']],
+                                                   stratify=independent_test[['Sigma', 'Con_level', 'Pro']],
+                                                   random_state=random_state,
+                                                   shuffle=True, test_size=val_test_size)
+
+    """
+    Step2 get dataset from `train` and `independent_test` to predict Pro/non_pro
+    """
+    train_identify = train[['Pro_seq', 'Pro']]
+    val_identify = val[['Pro_seq', 'Pro']]
+    independent_test_identify = independent_test[['Pro_seq', 'Pro']]
+
+    """
+    Step3 del non_pro
+    """
+    train = __del_rows(train, "Sigma", ["non_pro"])
+    val = __del_rows(val, "Sigma", ["non_pro"])
+    independent_test = __del_rows(independent_test, "Sigma", ["non_pro"])
+
+    """
+    Step4 get dataset from `train` and `independent_test` to predict pro level
+    """
+    # del confirmed in column Con_level
+    train = __del_rows(train, "Con_level", "Confirmed")
+    val = __del_rows(val, "Con_level", "Confirmed")
+    independent_test = __del_rows(independent_test, "Con_level", "Confirmed")
+    train_level = train[['Pro_seq', 'Con_level']]
+    val_level = val[['Pro_seq', 'Con_level']]
+    independent_test_level = independent_test[['Pro_seq', 'Con_level']]
+
+    """
+    Step5 get dataset from `train` and `independent_test` to predict pro type
+    """
+    train = __del_rows(train, "Sigma", ["unknown"])
+    val = __del_rows(val, "Sigma", ["unknown"])
+    independent_test = __del_rows(independent_test, "Sigma", ["unknown"])
+    train_type = train[['Pro_seq', 'Sigma']]
+    val_type = val[['Pro_seq', 'Sigma']]
+    independent_test_type = independent_test[['Pro_seq', 'Sigma']]
+
+    return [train_identify, val_identify, independent_test_identify], \
+        [train_type, val_type, independent_test_type], \
+        [train_level, val_level, independent_test_level]
 
 
 def __get_cv_dataset_list(train, skf, pred_column):
@@ -152,6 +280,87 @@ def __get_cv_dataset_list(train, skf, pred_column):
         dataset_list.append([t1_train[['Pro_seq', pred_column]], t1_test[['Pro_seq', pred_column]]])
     # dataset.append(independent_test)
     return dataset_list
+
+
+def _get_dataset_by_stratifyKFold(first_level_train_test, random_state=None, cv=10):
+    skf = StratifiedKFold(n_splits=cv, shuffle=True, random_state=random_state)
+    """
+    Step1 split base_data to train and independent test
+    """
+    # train, independent_test = get_first_level_train_test(random_state=random_state,
+    #                                                      independent_test_size=independent_test_size)
+    if len(first_level_train_test) != 2:
+        raise ValueError("first level dataset must include train and independent_test")
+    train, independent_test = first_level_train_test[0], first_level_train_test[1]
+
+    """
+    Step2 get 5-fold datasets from train set to predict pro/non-pro, independent_test set is not changed.
+    dataset_identify format: [[train,test],[cv2],[cv3],...,[cvn],independent_test]
+    """
+    dataset_identify = __get_cv_dataset_list(train, skf, "Pro")
+    dataset_identify.append(independent_test[["Pro_seq", "Pro"]])
+
+    # get train_X_del_nonPro_unknown and independent_test_del_nonPro_unknown
+    train = __del_rows(train, "Sigma", ["non_pro"])  # train_del_nonPro_unknown
+    independent_test = __del_rows(independent_test, "Sigma",
+                                  ["non_pro"])  # independent_test_del_nonPro_unknown
+    # print(len(train), len(independent_test))
+    """
+    Step3 get 5-fold datasets from train set to predict pro level, independent_test set is not changed.
+    dataset_level format: [[train,test],[cv2],[cv3],...,[cvn],independent_test]
+    """
+    # get train_del_nonPro_unknown_confirmed and independent_test_del_nonPro_unknown_confirmed
+    train = __del_rows(train, "Con_level", "Confirmed")  # train_del_nonPro_unknown_confirmed
+    independent_test = __del_rows(independent_test, "Con_level",
+                                  "Confirmed")  # independent_test_del_nonPro_unknown_confirmed
+    dataset_level = __get_cv_dataset_list(train, skf, "Con_level")
+    dataset_level.append(independent_test[["Pro_seq", "Con_level"]])
+
+    """
+    Step2 get 5-fold datasets from train set to predict pro type, independent_test set is not changed.
+    dataset_type format: [[train,test],[cv2],[cv3],...,[cvn],independent_test]
+    """
+    train = __del_rows(train, "Sigma", ["unknown"])  # train_del_unknown
+    independent_test = __del_rows(independent_test, "Sigma",
+                                  ["unknown"])  # independent_test_del_unknown
+    dataset_type = __get_cv_dataset_list(train, skf, "Sigma")
+
+    dataset_type.append(independent_test[["Pro_seq", "Sigma"]])
+
+    return dataset_identify, dataset_type, dataset_level
+
+
+def get_split_dataset(complete_data, split_type='train_test', random_state=None,
+                      independent_test_size=0.2, val_test_size=0.5,
+                      cv=10):
+    """
+    obtain datasets of 3 tasks through data (N,4) and split type
+    :param complete_data: the whole data with shape (N,4)
+    :param split_type: 'train_test','train_val_test' or 'KFold'
+    :param random_state:
+    :param independent_test_size: first level split: keep same train data and independent test data
+    :param val_test_size: second level split: get val and test, or KFold from independent_test of first level
+    :param cv: KFold n_splits
+    :return: 3 datasets
+    """
+    # first level split
+    first_level_train_test = get_first_level_train_test(complete_data, random_state, independent_test_size)
+    # second level split
+    if split_type == "train_test":
+        dataset_identify, dataset_type, dataset_level = _get_dataset_by_train_test(first_level_train_test)
+    elif split_type == "train_val_test":
+        # train set is not changed, split independent_test into val and test_new
+        dataset_identify, dataset_type, dataset_level = _get_dataset_by_train_val_test(first_level_train_test,
+                                                                                       random_state,
+                                                                                       val_test_size)
+    elif split_type == "KFold":
+        dataset_identify, dataset_type, dataset_level = _get_dataset_by_stratifyKFold(first_level_train_test,
+                                                                                      random_state,
+                                                                                      cv)
+    else:
+        raise ValueError(f"split type error, {split_type} is not in ['train_test','train_val_test','KFold']!")
+
+    return dataset_identify, dataset_type, dataset_level
 
 
 class RegulonDataset(Dataset):

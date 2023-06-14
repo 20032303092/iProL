@@ -1,0 +1,1976 @@
+Results
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 1( ECK125137716 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 1 is a non-promoter sequence.
+The subsequence is:AGCAAGAGAACATCTGGCCTGCGGGCACCACTGCTACAGTGGTGGTCACTGGCAAACAAGATCGCGACGAAAGCCAGGATT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 2( ECK125136718 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 2 is a sigma24-promoter sequence.
+The subsequence is:ATGCCTGATAATGAGAACTGCTTTAGTAAACTACTTTGTATGCTGTCTGTCTTTCAAACCGACGCAGCTATTAACGCATGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 3( ECK125296865 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 3 is a sigma24-promoter sequence.
+The subsequence is:TGGAAAATTCTTAGAAACCGATCACATACAGCTGCATTTATTAAGGTTATCATCCGTTTCGCTGAAAAACATAACCCATAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 4( ECK125136922 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 4 is a non-promoter sequence.
+The subsequence is:TTACTCATGGTTTTCTCCTGTCAGGAACGTTCGGATGAAAATTGATCCTTTCCAAGCTTAGACCAGGATGGCGGGATGGGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 5( ECK125296952 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 5 is a sigma24-promoter sequence.
+The subsequence is:TTTGTGCTTCATGCACACTCTTTCCCCACACTTTTTCCCTTTGCTGTGGTCTACTTATTCGCGCGTGTAGATTTTACTTAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 6( ECK125137793 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 6 is a non-promoter sequence.
+The subsequence is:GCGTGTTGGCATTGCCCGCGCGGTGGTGAACAAGCCCGCGGTACTGCTGGCGGACGAACCGACTGGTAACCTGGACGACGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 7( ECK125136971 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 7 is a non-promoter sequence.
+The subsequence is:TAACGGTAACGGTGTCCCGAAACGAACCCGTTTCGGGACAATTTCCAAAGTCTGTTCACTGGCATTAGCAACGGAAAATAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 8( ECK125137621 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 8 is a sigma24-promoter sequence.
+The subsequence is:TATTGCGACCGGGCAACGCATCGAAATTGAACATTTCCGTAATGAGGCAAACAATCAGGAACCGTTCTGGTTGCACAGCGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 9( ECK125136727 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 9 is a sigma24-promoter sequence.
+The subsequence is:AACGTGAACTGGAGATGTCTACCGAGATTGCACGTCTCAAACGCCAGCTGGCAGAACGGGATGAAGAGCTGGCTATCCTCC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 10( ECK125137411 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 10 is a non-promoter sequence.
+The subsequence is:ATTGCTGAAGAACTTGAACTGCCGCCGGTGAAAATTCACTGTTCTATTCTGGCAGAAGACGCGATCAAAGCCGCCATTGCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 11( ECK125137402 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 11 is a sigma24-promoter sequence.
+The subsequence is:CGGTATGCAGCGTAAAGACGGTAATTTGAACTTAACCGGCCAGGCACCGTACAAACTGAAAATTGGTGCGCCAGCCGCAGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 12( ECK125137245 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence12 is a sequence70-promoter sequence.
+The subsequence is:AAGTAAGTACTTCTCTATATTCTTCAGGTAAACTATCAGCTGATGGTTTATCTATACAAAAAAGGAGTCGGGATGAACGAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 13( ECK125296892 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence13 is a sequence70-promoter sequence.
+The subsequence is:TGCTTAATCCATGAGCCAGCGTGCTGAACGATACCGGGATTCTGTTGTCGGAATGGCTGGTTATCCATTAAAATAGATCGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 14( ECK125136905 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 14 is a sigma24-promoter sequence.
+The subsequence is:ATTTTCGAACGTGTACATACAAATATGCACAAAAATAATCATAATTATTTTCTGAGATGCATTATGATATGAACACCAATT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 15( ECK125136888 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 15 is a sigma24-promoter sequence.
+The subsequence is:CTTGTGCCGAAAAAGACCAGATGGCACATGAACTTTAATTAATTGACTATTCGAAACTGAATTTATGCCAGAAATGGCAGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 16( ECK125296860 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence16 is a sequence70-promoter sequence.
+The subsequence is:TGACAAACAAAAACAGATGCGTTACGGAACTTTACAAAAACGAGACACTCTAACCCTTTGCTTGCTCAAATTGCAGCTAAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 17( ECK125296898 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence17 is a sequence70-promoter sequence.
+The subsequence is:CGTGGGGAAAGTTTTTGGAAAACAACTGCAACTGACCTGCAATAAGAAGGTCAAAGCTATATGAATCCGCGCTGAATGGCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 18( ECK125136722 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 18 is a non-promoter sequence.
+The subsequence is:GTCAGGGTTAAATTCACGGTCGGTGCACTTTAGGTGAAAAAGGTTGAGTCGCAAAGCGGAATGCATCTAGCATAAAGCCTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 19( ECK125137998 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 19 is a sigma24-promoter sequence.
+The subsequence is:TAACTGCCTGACAATTCCAACATCAATGCACTGATAAAAGATCAGAATGGTCTAAGGCAGGTCTGAATGAATACCCAGTAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 20( ECK125136687 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 20 is a sigma24-promoter sequence.
+The subsequence is:CCAGGCAGCCTGAATGAACAACGGGCAATAAATAGCCAAATCTTTCTTTATCAAAACGTCGGCACATTGTCGGCGTTTTTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 21( ECK125136765 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 21 is a sigma24-promoter sequence.
+The subsequence is:GCGAAAGCAAGATGGGTAAACGTCTGAACTGTAAGTGATCGTCAGGGCTAATCTGAAAAGCCCCCGTAAATCAATCGGCTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 22( ECK125136924 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 22 is a sigma24-promoter sequence.
+The subsequence is:TCTTTGATCTCATCAACGGTATCAAAATAAACCAGCGTATAACGTTCAAATCGAACATAAGATTCGATAAACCATGGAGGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 23( ECK125136963 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 23 is a sigma24-promoter sequence.
+The subsequence is:ATTGATACTAATAATACATCCGATATTGGAACTTTATTCCCCATAATAAAACAGAGCAAAACTTAAATTTTTTAAATGTTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 24( ECK125137055 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence24 is a sequence70-promoter sequence.
+The subsequence is:AACCGCATTTCAACGAGTCTACCCTGATGGCAATTTTATTGACTGGAAGATCTATCAATCGGTAGCTGCTGAATTATATGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 25( ECK125137128 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 25 is a non-promoter sequence.
+The subsequence is:GGCACATTCGGCTGCCTCAACTAGGCTGAAAAATGGTGCGATCGGACTGGTCGTACCACAATCGGCAGCTAAATGGAGAGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 26( ECK125137243 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 26 is a sigma24-promoter sequence.
+The subsequence is:ACTGCGAATATTCTGCGGACCTTCGTCCGAAACTCTACAAAGTCGATTGATCATACAGGCAATGCTTCATTATCATCCTTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 27( ECK125296916 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 27 is a sigma24-promoter sequence.
+The subsequence is:TCAGAAAGATTCTGCAATCTATGTGCATTGAAAAAATCTTCAGATAGATATCATTCTCCTGAACAATCCGATGAACGGCAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 28( ECK125137657 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 28 is a sigma24-promoter sequence.
+The subsequence is:GGCCATTTCGTTCTCATTCAGGAAATTTGAACATACCGGGCAGAATATCTGGCTAACAATGTAGCGTCCAGCCCCTTACCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 29( ECK125137701 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 29 is a sigma24-promoter sequence.
+The subsequence is:GCGAAGGTAAGTTGATGACTCATGATGAACCCTGTTCTATGGCTCCAGATGACAAACATGATCTCATATCAGGGACTTGTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 30( ECK125137757 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 30 is a non-promoter sequence.
+The subsequence is:TGTTAAAGGCGATGTCGATGCGGTGATCTGGAACGTGGTGGCGGAAAACGAACTGACCATGCTGGGATTAGAGGCGACGCC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 31( ECK125138008 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 31 is a non-promoter sequence.
+The subsequence is:GGTACGGTCGTTATCGCCGTGGCGCTGGTGACCTTCTATGCGGGTGGCTGGGCTATCTAATCTTTCATCGGATTCTGAAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 32( ECK125138096 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 32 is a non-promoter sequence.
+The subsequence is:CATTTGGCTGACCTGTCCCCCCGGCGAGGAAATACAATGGGTGATCCCTGGGCTGACTGAGTCAATTTATTGCCAGCAGGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 33( ECK125138108 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 33 is a sigma24-promoter sequence.
+The subsequence is:TTTTATCAAAAGATAAATACCGGGAAATTCCCGCTTACCTATGCTCACAATCAGTCGACTAAAAATGTTTTTGTGAGCGGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 34( ECK125137256 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 34 is a sigma24-promoter sequence.
+The subsequence is:TCATCAGACAGTGAAAATTACATGGGCGAACAAAAAATAATCACAAGCTGACTTATACTTGAACTGTCAGGTTCATGAACT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 35( ECK125296866 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 35 is a sigma24-promoter sequence.
+The subsequence is:TTTATACTCTTTTGAATACATAGAAAATTGATATCAATATAATGAAAATATCAAATATTTGCATATAAATATAATCTTAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 36( ECK125137366 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence36 is a sigma28-promoter sequence.
+The subsequence is:CCGGGGATAATTCCCATAAGCGCTAACTTAAGGGTTGTGGTATTACGCCTGATATGATTTAACGTGCCGATGAATTACTCT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 37( ECK125296953 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 37 is a sigma32-promoter sequence.
+The subsequence is:AAGTGATACAAGATCGATGACATAGCGTTGAAGAAAAGGATTTGATAATCCGCAAAATTTGCACAACACTGCCTGTAATAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 38( ECK125296939 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 38 is a sigma32-promoter sequence.
+The subsequence is:GGCGAAGCGGTTTGCGATCTGGAATACGTTGAAGACTCTGCCGCAGAGACCGACATGAACGTAGTGATGACCGAAGACGGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 39( ECK125137736 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence39 is a sigma28-promoter sequence.
+The subsequence is:GTGGTCCCACCTGACCCCATGCCGAACTCAGAAGTGAAACGCCGTAGCGCCGATGGTAGTGTGGGGTCTCCCCATGCGAGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 40( ECK125296975 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence40 is a sequence70-promoter sequence.
+The subsequence is:CCCGAGAAGCGATATCCATACAAACAGATGAAGATTGCAGCCGTAACGTCTATAATCAGCGCCCCACACAGAGGTAGAACA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 41( ECK125296882 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 41 is a sigma32-promoter sequence.
+The subsequence is:TTACGTTCTTACACTTTATCTGTGGTTTAAATCGTCCCGGAGTTGCCCTATATTAGCCAAACGTAATTATTTGGTTACAGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 42( ECK125296946 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 42 is a sigma32-promoter sequence.
+The subsequence is:TTTTCACATTAATCTGGTCAATAACCTTGAATAATTGAGGGATGACCTCATTTAATCTCCAGTAGCAACTTTGATCCGTTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 43( ECK125137753 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 43 is a sigma32-promoter sequence.
+The subsequence is:CCCGTAAAAATATTTTCACTTTAAATTCAATTTGATAACTACATCCATTAGCCACAGCGCGATCCTGTGCGAAATTTTGTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 44( ECK125296988 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 44 is a sigma32-promoter sequence.
+The subsequence is:AAGCGGTGGAGATCTTCTCTGCCGCTTTTTTTTTCATCAATCATCCCCATAATCCTTGTTAGATTATCAATTTTAAAAAAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 45( ECK125296982 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 45 is a sigma32-promoter sequence.
+The subsequence is:CAGAATTTTTTTTCTTTTTCCCCCTTGAAGGGGCGAAGCCTCATCCCCATTTCTCTGGTCACCAGCCGGGAAACCACGTAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 46( ECK120010297 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 46 is a sigma32-promoter sequence.
+The subsequence is:GGATCACCTGCTCTCGCTTGAAATTATTCTCCCTTGTCCCCATCTCTCCCACATCCTGTTTTTAACCTTAAAATGGCATTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 47( ECK125296983 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 47 is a sigma32-promoter sequence.
+The subsequence is:AACGAGAACAAGAAAGTTAACGCTGGTTGATTTTCCGAATTTAGCCCTTAAATCATCAACAATGCGTGTGGATGCCATTTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 48( ECK125296964 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 48 is a sigma32-promoter sequence.
+The subsequence is:TAATTTTTCCTCTATTCTCGGCGTTGAATGTGGGGGAAACATCCCCATATACTGACGTACATGTTAATAGATGGCGTGAAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 49( ECK125296980 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence49 is a sequence70-promoter sequence.
+The subsequence is:CCTAAGTAAAAATTTGACGACACGTATTGAAGTGCTTCACCATAGCCTACAGATTATTTCGGAGCGCGAAAATATAGGGAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 50( ECK125296912 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence50 is a sequence70-promoter sequence.
+The subsequence is:TCAAACTTTCGCCCCTCCTGGCATTGATTCAGCCTGTCGGAACTGGTATTTAACCAGACTAATTATTTTGATGCGCGAAAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 51( ECK125296936 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 51 is a sigma32-promoter sequence.
+The subsequence is:AGAAAACCAAAAGCGTGGTCGCCCCTTGCAATATCAGAATCGCGGCACCATTAAGTACGTATGGACCACCAACGGCCCGGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 52( ECK125296874 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 52 is a sigma32-promoter sequence.
+The subsequence is:CAGAAAATTATTTTAAATTTCCTCTTGTCAGGCCGGAATAACTCCCTATAATGCGCCACCACTGACACGGAACAACGGCAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 53( ECK125296978 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 53 is a sigma32-promoter sequence.
+The subsequence is:CAGAAAAAAAGATCAAAAAAATACTTGTGCAAAAAATTGGGATCCCTATAATGCGCCTCCGTTGAGACGACAACGTGAAAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 54( ECK125296981 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 54 is a sigma32-promoter sequence.
+The subsequence is:AGTCATTTTTCTGCAATTTTTCTATTGCGGCCTGCGGAGAACTCCCTATAATGCGCCTCCATCGACACGGCGGATGTGAAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 55( ECK125296966 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 55 is a sigma32-promoter sequence.
+The subsequence is:TGAAATAAAAATGCATTTTTCCGCTTGTCTTCCTGAGCCGACTCCCTATAATGCGCCTCCATCGACACGGCGGATGTGAAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 56( ECK125296883 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 56 is a sigma54-promoter sequence.
+The subsequence is:TCGCCATTTGCGACTACACTCCTCGCTGTTGCTTCATGGCACAGCGTTAACGCTATGTACATAGCAGCTAAAAAAATGATG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 57( ECK125296914 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 57 is a sigma32-promoter sequence.
+The subsequence is:TTCTGCCGCCATTTCGGTGTAACAGGTGCTGGAACCGTAAAAAAGACCCATATTCATAACGTAAGCTTCTCGATTCTGCTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 58( ECK125136372 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 58 is a sigma32-promoter sequence.
+The subsequence is:AGAGGTGGCTGACGATAGCGCGCCTTGACTGGATACTGCCTTCACGCAAAGCCACACGGAAGACAGGGAAGATGGATGCAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 59( ECK125136464 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 59 is a sigma32-promoter sequence.
+The subsequence is:AGATTATTTTCATATTACGGCTCCAGAGTTGTTATCACACTATCACCCACCCACATTATTGGGTTGATTAATAATTAGTTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 60( ECK125296932 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 60 is a sigma32-promoter sequence.
+The subsequence is:CACTGGTTTGGTTAAAAATTAAACACTTGAAAGTGTAATTTCCGTCCCCATATACTAAGCATCAGTAAAAAACTCCCGCCT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 61( ECK125296986 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 61 is a sigma32-promoter sequence.
+The subsequence is:ATCATTCAATTTGTTATTTTTGTGTTGCAATTCATTCTCCGACACGCCATTTTCTTTCTCTCGCAAATTCGTTTTGGATGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 62( ECK125137014 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 62 is a sigma32-promoter sequence.
+The subsequence is:TCCCGTCTATAGTATTTATGAGGGTTTGCTTTTAATAATCATAATTACCCACCAGAGTGTGATATGCGTACAACCATTGCT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 63( ECK125137531 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 63 is a sigma32-promoter sequence.
+The subsequence is:GTTTTCGTATTTTACAAACAACCAGAAGCTGGCATCAATTTGTGATCAACCCCACACATTATCCGTCAAATTAGTCTTTTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 64( ECK125137577 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 64 is a sigma32-promoter sequence.
+The subsequence is:GAAGATTGGCTATAACGGCACAAAAATTCTTGAGATTGATTCCAGAGCGCCCTACAGCGAAGTGCTGGAACAGGCACAGAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 65( ECK125138071 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 65 is a non-promoter sequence.
+The subsequence is:GGCACTGAAGAGGTATGCGGAAAACGTTGTGGATTATACCTGTCGCACGCCACCATGCAAGCGCCAGCTTGCTCGCACCTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 66( ECK120033718 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence66 is a sequence70-promoter sequence.
+The subsequence is:TAAATGTGGCTGTTCTGGATTCATTATTCAAAGTGTGTACAAGATCACATTTAATCACATCATTACGGTTCAGCATGCTGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 67( ECK125138098 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 67 is a non-promoter sequence.
+The subsequence is:TGATTTTGCAGGCGTGCCATACCTACGCGGTGGAATCGCTGGCGATTAAACGTCATGTGCGCCAGCAGCACAACATTCCTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 68( ECK125137048 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 68 is a sigma32-promoter sequence.
+The subsequence is:ATATTGTCAATTTCGATGTGCGTCCGTGGTTTGAAAAAATGGCGCTCACCCAACATCTCACCCCATCTCGTTCACAAGGTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 69( ECK125137645 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 69 is a sigma32-promoter sequence.
+The subsequence is:AATTTTTTGAAGATTTTTGACAGTTTTCCTTGCTAACAATCATCATTCACCACGTTTATGATTCTCTCCATCGACAGCAAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 70( ECK125296935 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence70 is a sequence70-promoter sequence.
+The subsequence is:AAAGCGCGGCAACTAAACGTAGAACCTGTCTTATTGAGCTTTCCGGCGAGAGTTCAATGGGACAGGTTCCAGAAAACTCAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 71( ECK125296977 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence71 is a sequence70-promoter sequence.
+The subsequence is:ATACTAAACAAAACTGCCAATACCCCTACATTTAACGCTTATGCCACATATTATTAACATCCTACAAGGAGAACAAAAGCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 72( ECK125296959 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence72 is a sigma38-promoter sequence.
+The subsequence is:AAAAATTAAAGCGCAAGATTGTTGGTTTTTGCGTGATGGTGACCGGGCAGCCTAAAGGCTATCCTTAACCAGGGAGCTGAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 73( ECK125296861 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence73 is a sigma38-promoter sequence.
+The subsequence is:TTGTTATCTAGTTGTGCAAAACATGCTAATGTAGCCACCAAATCATACTACAATTTATTAACTGTTAGCTATAATGGCGAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 74( ECK125296888 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence74 is a sequence70-promoter sequence.
+The subsequence is:GATAAGAATGTTTTAGCAATCTCTTTCTGTCATGAATCCATGGCAGTGACCATACTAATGGTGACTGCCATTGATGGAGGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 75( ECK125296903 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence75 is a sigma38-promoter sequence.
+The subsequence is:TCGCGACAACCGGAATATGAAAGCAAAGCGCAGCGTCTGAATAACGTTTATGCTGAAAGCGGATGAATAAGGAGATGCGAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 76( ECK120015418 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence76 is a sequence70-promoter sequence.
+The subsequence is:ACCCATAAAGAATAATGGTGATAACTATCATCGCCAGGATGAATAAACATTGTTCATGGCAACTTATATGACTTTTTCATT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 77( ECK125296950 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence77 is a sequence70-promoter sequence.
+The subsequence is:GGCGAATACCTCTGGTCGTAGAGTTTCAGGATAAAGAGGGAGATCTACCATTATCGGGTTATTTTTCTCTCTTCGCCTACA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 78( ECK125296949 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence78 is a sequence70-promoter sequence.
+The subsequence is:AATTCTGCGATGTGATATTGCTCTCCTATGGAGAATTAATTTCTCGCTAAAACTATGTCAACACAGTCACTTATCTTTTAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 79( ECK125296990 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence79 is a sequence70-promoter sequence.
+The subsequence is:CAAGAATAAGTTATCAATAACCAGTTTGTGATCTCTGAAGAATATTACTAAAGTTAAAATGTAATCCGATTTAAATATCGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 80( ECK120034545 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence80 is a sequence70-promoter sequence.
+The subsequence is:GAATGCCGACATTTATGCTCGCCGACCACCGCCCCCGTTATTTTGTGCTATGTTTATTGAATAATGCGCTTTGCTTTTAAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 81( ECK125296940 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence81 is a sigma38-promoter sequence.
+The subsequence is:GTTACACGCTGAAACCAACCACTCACGGAAGTCTGCCATTCCCAGGGATATAGTTATTTCAACGGCCCCGCAGTGGGGTTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 82( ECK125296922 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence82 is a sigma38-promoter sequence.
+The subsequence is:AACCTAAATATTTGTTGTTAAGCTGCAATGGAAACGGTAAAAGCGGCTAGTATTTAAAGGGATGGATGACATCTCAGCGTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 83( ECK125296906 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence83 is a sequence70-promoter sequence.
+The subsequence is:TTCCAGGCCTGTTTCAAATAATTATTTGCAGTGCAACTAATTCCATGTATATTACTACCCATATATAGCGTCTATAAAATT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 84( ECK125296926 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence84 is a sigma38-promoter sequence.
+The subsequence is:TACTTAGGCTGCTAACAAAATTTTGTTGTATGATTGAAATTAGCGGCCTATACTAATTTCGAGTTGTTAAAGCTACGATAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 85( ECK125296955 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence85 is a sigma38-promoter sequence.
+The subsequence is:GGGGGTGTAAAACAACGTAAAGTCATGGATTAGCGACGTCTGATGACGTAATTTCTGCCTCGGAGGTATTTAAACAATGAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 86( ECK125296931 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence86 is a sigma38-promoter sequence.
+The subsequence is:GATCGAAAAACGCTTGTGTTAAAAATTTGCTAAATTTTGCCAATTTGGTAAAACAGTTGCATCACAACAGGAGATAGCAAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 87( ECK125296885 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence87 is a sigma38-promoter sequence.
+The subsequence is:AAGAAAAATACAACGCGCGGGTGAGTTATTAAAAATATTTCCGCAGACATACTTTCCATCGTAACGCAGCGTTAACAAAAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 88( ECK125296963 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 88 is a sigma24-promoter sequence.
+The subsequence is:TAGTTACATGTTTAACACTTGATTTAAGATTTGTAATGGCTAGATTGAAATCAGATGTAATCCATTAGTTTTATATTTTAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 89( ECK125296862 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence89 is a sequence70-promoter sequence.
+The subsequence is:CTTGCCAACATTTCTGATGATTAGCATTCCCTTCGCCATTTCCTTGAGCAAACTTTAGCTATTCTTATCAATTATGCTTAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 90( ECK125296921 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence90 is a sequence70-promoter sequence.
+The subsequence is:TACCTGCAGCGTTAGCCAGTGTGAAAGGCTGGGTCAGCGCGAAATTGCAATAATATAAGCGTCAGGCAATGCCGTGGACTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 91( ECK125296913 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence91 is a sequence70-promoter sequence.
+The subsequence is:CGCGTTAAATGCTGAATCTTTACGCATTTCTCAAACCCTGAAATCACTGTATACTTTACCAGTGTTGAGAGGTGAGCAATG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 92( ECK125296965 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence92 is a sigma38-promoter sequence.
+The subsequence is:AACGACATTCGTTTGCCGGGCGAAGTGGCGTTCTTTATCGCCAAGCGTCTACGATCTAACGTACGTGAGCTGGAAGGGGCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 93( ECK125296947 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence93 is a sequence70-promoter sequence.
+The subsequence is:GCCGTAAGATCGAGCAGTTGCGTGAAGAGAGCCACGATATCAAAGAAGATTTTTCAAATTTAATCAGAACATTGTCATCGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 94( ECK125296917 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence94 is a sigma38-promoter sequence.
+The subsequence is:TGAGGCGCTGCGCGACTTGCTGGCATTGCAGGAAAAACTGGTCACCATCGACAATATTCAGAAGACGGTGGCGGAGTACTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 95( ECK125296956 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence95 is a sequence70-promoter sequence.
+The subsequence is:ATTAGTGTGATAGGAACAGCCAGAATAGCGGAACACATAGCCGGTGCTATACTTAATCTCGTTAATTACTGGGACATAACA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 96( ECK120033642 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence96 is a sequence70-promoter sequence.
+The subsequence is:TTGGGATGGCACGCGAGGTAATTCAGGCGTAATCAACAACCCTTGTCTATAGTTAGTGACAGGTTTTACGCAAATGGAGAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 97( ECK125296925 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence97 is a sequence70-promoter sequence.
+The subsequence is:TCTGCGCGTTGCGGGCCGTTCCGGGGATGATCAGTTGGTCGAGATCATCGAAGTTCCGAATCACCCGTGGTTCGTGGCTTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 98( ECK125296880 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence98 is a sequence70-promoter sequence.
+The subsequence is:GTAAAAAAGTTAGAGCGGCAACGCGTACCCTGGGTACGCGTTGTTTGTCTGGAGTTTCAGTTTAACTAGTGACTTGAGGAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 99( ECK125296891 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence99 is a sequence70-promoter sequence.
+The subsequence is:AATGTCTTCTTCGGCTGGACAAACATTCCTTTTATTCCACGTTTCGCTTATCCTAGCTGAAGCGTTTCAGTCGATTAAATG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 100( ECK125296896 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence100 is a sequence70-promoter sequence.
+The subsequence is:TAAAAAAATCGATCTCGTCAAATTTCAGACTTATCCATCAGACTATACTGTTGTACCTATAAAGGAGCAGTGGAATAGCGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 101( ECK125296887 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence101 is a sigma38-promoter sequence.
+The subsequence is:TACTCGGTGAAGAAATTTTACCGTCAATACGTATTCAACCGTCCGGAACCTTCTATGATTATGAGGCGAAGTATCTCTCTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 102( ECK125296884 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence102 is a sequence70-promoter sequence.
+The subsequence is:GGCAGCGACATCAGCAATTCCTATTGGTGCGCATATTGTCAGCAAGGTACAAACGCTGTTGGCAAGCCAGAGTAACCCCGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 103( ECK125296924 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence103 is a sigma38-promoter sequence.
+The subsequence is:TATTTAAATTAAGCCTGTAATGCCTTGCTTCCATTGCGGATAAATCCTACTTTTTTATTGCCTTCAAATAAATTTAAGGAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 104( ECK125296868 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence104 is a sigma38-promoter sequence.
+The subsequence is:TATTTAAACACGAGTCCTTTGCACTTGCTTACTTTATCGATAAATCCTACTTTTTTAATGCGATCCAATCATTTTAAGGAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 105( ECK125296941 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence105 is a sequence70-promoter sequence.
+The subsequence is:GATTCCACTAATTTATTCCATGTCACACTTTTCGCATCTTTGTTATGCTATGGTTATTTCATACCATAAGCCTAATGGAGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 106( ECK125296863 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence106 is a sequence70-promoter sequence.
+The subsequence is:GTCGCAATGATTGACACGATTCCGCTTGACGCTGCGTAAGGTTTTTGTAATTTTACAGGCAACCTTTTATTCACTAACAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 107( ECK120010512 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence107 is a sigma38-promoter sequence.
+The subsequence is:AGTGTGATCGGGGACAATATATTTACGCACGTTATGTTTAAAGGCACTACACTGATTGGGGAATACTGAAATCAGAAAAAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 108( ECK125296927 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence108 is a sequence70-promoter sequence.
+The subsequence is:TTACAGGGAGCCTGCCTTTCCGGCGTTGTTGTTATGCCCCCAGGTATTTACAGTGTGAGAAAGAATTATTTTGACTTTAGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 109( ECK125296919 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 109 is a non-promoter sequence.
+The subsequence is:CCTTTCCGGCGTTGTTGTTATGCCCCCAGGTATTTACAGTGTGAGAAAGAATTATTTTGACTTTAGCGGAGCAGTTGAAGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 110( ECK125296908 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence110 is a sequence70-promoter sequence.
+The subsequence is:ACATTTCTGTACCAATAAGCTTGCCATTTGACCTGTATCAGCTTTCCCGATAAGTTGGAAATCCGCTGGAAGCTTTCTGGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 111( ECK125296938 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence111 is a sequence70-promoter sequence.
+The subsequence is:AACTGGCGGTACTGCCAGACAGCGATCGCCGTGGCATGACCGCTTCCGGCATGATTGTGATTAACCCGCCGTGGAAACTGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 112( ECK125296961 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence112 is a sequence70-promoter sequence.
+The subsequence is:TGCAACTCAATATTCACAACAACCTTACACTGCGCCACTATTTTCGCTATGGTTATGCGTAAGCATTGCTGTTGCTTCGTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 113( ECK125296968 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence113 is a sequence70-promoter sequence.
+The subsequence is:TATTTTCGCTATGGTTATGCGTAAGCATTGCTGTTGCTTCGTCGCGGCAATATAATGAGAATTATTATCATTAAAAGATGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 114( ECK125296886 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence114 is a sequence70-promoter sequence.
+The subsequence is:ATAGACATGTCGGACGAAAATTCGAAGATGTTTACCGTGGAAAAGGGTAAAATAACGGATTAACCCAAGTATAAATGAGCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 115( ECK125296984 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence115 is a sigma38-promoter sequence.
+The subsequence is:TCTGATTTTGATATTTTCCATCAACATGACATATACAGAAAACCAGGTTATAACCTCAGTGTCGAAATTGATTCGTGACGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 116( ECK125296907 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence116 is a sequence70-promoter sequence.
+The subsequence is:TAGGAAATTTTTATTAAATCGACTGCATTCTTAGACGCGTTTTTGGCATAGATTGATAGCAGGGGATTTTCTTCTTAATTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 117( ECK125296933 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence117 is a sequence70-promoter sequence.
+The subsequence is:AAAAGATAAATCCACACAGTTTGTATTGTTTTGTGCAAAAGTTTCACTACGCTTTATTAACAATACTTTCTGGCGACGTGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 118( ECK125296962 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence118 is a sigma38-promoter sequence.
+The subsequence is:GACTTTTTTCCTGAAAAGTCAGTAGATATTCATAGGCAAGTAAGGTTTTATACTTTGCTGACAGGATTCAGGCCTGTCTCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 119( ECK125296948 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence119 is a sigma38-promoter sequence.
+The subsequence is:TTTATTCCGAAGTTTGTTGAGTTTACTTGACAGATTGCAGGTTTCGTCCTGTAATCAAGCACTAAGGGCGGCTACGGCCGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 120( ECK125296920 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence120 is a sequence70-promoter sequence.
+The subsequence is:GTTTGCGAGATTGAATTCACTATATGACAGGAAATTTATTGCGGAAATTGATATATTCACAACGTCACATTGCAATTTTTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 121( ECK125296957 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence121 is a sequence70-promoter sequence.
+The subsequence is:AAGGGGTAAGAATGGCTATTTTTTCACTGGAGAATTAATAAATCCTCGCTACAATAGACTGAATTTCCCCTGCTTCTTCTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 122( ECK125296879 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence122 is a sequence70-promoter sequence.
+The subsequence is:GATTCAAAAAAAAGTGGAAATAGGGTGAAGAATTGACCTAAAATAGCCATCCAGATGTTAATCCATCCATACCGATTAACA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 123( ECK125296889 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence123 is a sequence70-promoter sequence.
+The subsequence is:CGCTTTCAATCTGTGAGTGATTTCACAGTATCTTAACAATGTGATAGCTATGATTGCACCGTTTTAACGTTGTAACCCGTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 124( ECK125296867 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence124 is a sequence70-promoter sequence.
+The subsequence is:AAGTATTTGACAGCACTGAATGTCAAAACAAAACCTTCACTCGCAACTAGAATAACTCCCGCTATCATCATTAACTTTATT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 125( ECK125296875 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence125 is a sequence70-promoter sequence.
+The subsequence is:TAGATGCACAAAAAACGGGCAAAACTACCTGGTTCGCAAAACTGCGTCTAAAGTTAAACCGGGACCTCGCGAGCAAGGGTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 126( ECK125296967 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence126 is a sigma38-promoter sequence.
+The subsequence is:ATACCCAGGATCCCAGGTCTTTCTCAAGCCGACAAAGTTGAGTAGAATCCACGGCCCGGGCTTCAATCCATTTTCATACCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 127( ECK125296991 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence127 is a sigma38-promoter sequence.
+The subsequence is:CTCAATGTTGCGCTCAGGTGAATCGCGCCAGCAAATTACGGATTATCCTGAAATGCGTTTCTCACTTGCCCGACATATGCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 128( ECK125296909 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence128 is a sequence70-promoter sequence.
+The subsequence is:GTGCCATGTCCTCTCCCGCGTGAGAAATACGCTTCCCCGTAAGCGCATGGTAAACTATGCCTTCAAATCGGGCTTATCGCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 129( ECK125296905 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence129 is a sequence70-promoter sequence.
+The subsequence is:TGCGAGTGTAGACTCAATGATTCCTTTAAGCCTGTCAATTCGGGATATATGATTCCATACATCTGCAATTATTTGATCGTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 130( ECK125296960 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence130 is a sequence70-promoter sequence.
+The subsequence is:GCACATTTCCAGCGTCGATACGCGGTCAATTTCAGCCGAGGCGGTGTTCGAGCCTTCAGTAATCATCTTTTCAAATTGCAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 131( ECK125296945 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence131 is a sigma38-promoter sequence.
+The subsequence is:CTTTATCTTTGTAGCACTTTCACGGTAGCGAAACGTTAGTTTGAATGGAAAGATGCCTGCAGACACATAAAGACACCAAAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 132( ECK125296989 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence132 is a sequence70-promoter sequence.
+The subsequence is:GCGCGAGCAGATTTCACGGAATAATTTCACCAGACTTATTCTTAGCTATTATAGTTATAGAGAGCTTACTTCCGTGAATCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 133( ECK125296915 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence133 is a sequence70-promoter sequence.
+The subsequence is:AAGCGGAGCCGTTTCGTTCACGGGCTTGAAAAAGCGCCCAATGTATTCCAGGCTTATCTAACACGCTGATAAACAAGAGGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 134( ECK125296876 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence134 is a sequence70-promoter sequence.
+The subsequence is:TTGCTTATGTTTTCGCTGATATCCCGAGCGGTTTCAAAATTGTGATCTATATTTAACAAAGTGATGACATTTCTGACGGCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 135( ECK125296873 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence135 is a sigma38-promoter sequence.
+The subsequence is:TGAGCAATTATCAGTCAGAATGCTTGATAGGGATAATCGTTCATTGCTATTCTACCTATCGCCATGAACTATCGTGGCGAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 136( ECK125296987 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence136 is a sequence70-promoter sequence.
+The subsequence is:CGAGTCGGCAATTGTAAATTCAACATTCTCAAATGCGTCATGCTGAGCTATGATTAGCCGCTATTTTTTTGTCCTGAATGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 137( ECK125296929 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence137 is a sequence70-promoter sequence.
+The subsequence is:TTCATGATTTCAATCAAAACCTGTATGGACATAAGGTGAATACTTTGTTACTTTAGCGTCACAGACATGAAATTGGTAAGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 138( ECK125296928 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence138 is a sequence70-promoter sequence.
+The subsequence is:ACCGCCATTTGGCCTGACCTGAATCAATTCAGCAGGAAGTGATTGTTATACTATTTGCACATTCGTTGGATCACTTCGATG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 139( ECK125296893 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence139 is a sequence70-promoter sequence.
+The subsequence is:TACTATTTGCACATTCGTTGGATCACTTCGATGTGCAAGAAGACTTCCGGCAACAGATTTCATTTTGCATTCCAAAGTTCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 140( ECK125296942 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence140 is a sequence70-promoter sequence.
+The subsequence is:ACATTACGCTAACGGCACTAAAACCATCACATTTTTCTGTGACTGGCGCTACAATCTTCCAAAGTCACAATTCTCAAAATC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 141( ECK125296971 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence141 is a sigma38-promoter sequence.
+The subsequence is:TTAGTGCCTCCTTTCTCTCCCATCCCTTCCCCCTCCGTCAGATGAACTAAACTTGTTACCGTTATCACATTCAGGAGATGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 142( ECK125296958 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence142 is a sequence70-promoter sequence.
+The subsequence is:GAAGCCGCCGCGGCAAAAGCAGAAACTGTAAAACGCAGCAGTAGCAAACTAAGCTATAAATTGCAGCGCGAACTGGAGCAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 143( ECK125296897 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence143 is a sequence70-promoter sequence.
+The subsequence is:TAATTCCCGCCAAATAGCTTTTTATCACGCAAATAATTTGTGGTGATCTACACTGATACTCTGTTGCATTATTCGCCTGAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 144( ECK125296969 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence144 is a sequence70-promoter sequence.
+The subsequence is:TTACCCTGTGCGTACTGCTGCTGAACATTCTGGCGCGCGTTGTTTTTGCGAAGAATAAACACGGTTGATATTGCTGACACG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 145( ECK125296930 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence145 is a sequence70-promoter sequence.
+The subsequence is:CGGGGCTAAACAGGCGAACGACCTGGATTACGCCAGCCTGCCGGATAGTGTAGTTGAACAGGTTCGCGCTGCGTGGAAGAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 146( ECK125296869 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence146 is a sequence70-promoter sequence.
+The subsequence is:TCATAAAACTGTCATATTCCTTACATATAACTGTCACCTGTTTGTCCTATTTTGCTTCTCGTAGCCAACAAACAATGCTTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 147( ECK125296900 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence147 is a sequence70-promoter sequence.
+The subsequence is:TTGATAAGCAGTTACTTAATTTAAGTGACGATCGCTAAAAACGACTGTCACTGTCCTAATCTTATACGACATCCGAATGAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 148( ECK125296877 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence148 is a sequence70-promoter sequence.
+The subsequence is:ATTCAGAGATAACTTGAAGCGGGTCAAAGAAGCGCTGAAGGAATCGCGTTTTGATAAGCAGTTACTTAATTTAAGTGACGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 149( ECK125296951 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence149 is a sigma38-promoter sequence.
+The subsequence is:GGCTGAGACACAAGCACACATTCCTCTGCACGCTTTTTCGATGTCACCTATCCTTAGAGCGAGGCACCACCACTTTCGTAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 150( ECK125296944 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence150 is a sequence70-promoter sequence.
+The subsequence is:GCACCACCACTTTCGTAATACCGGATTCGCTTTCCGGCAGTGCGCCCAGAAAGCAAGTTTCTCCCATCCTTCTCAACTTAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 151( ECK125296878 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence151 is a sequence70-promoter sequence.
+The subsequence is:TACGTGGTTTTCCGTCGAAAATTTAAGGTAAGAACCTGACCTCGTGATTACTATTTCGCCGTGTTGACGACATCAGGAGGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 152( ECK125296954 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence152 is a sequence70-promoter sequence.
+The subsequence is:ACGGTACAACATTTACGCCACTTTACGCCTGAATAATAAAAGCGTGTTATACTCTTTCCCTGCAATGGGTTCCGTAGCAGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 153( ECK125296972 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence153 is a sequence70-promoter sequence.
+The subsequence is:GAACTCCTGTGCAAAAGACAGCAATTTTATTTTCCCTATATTAAGTCAATAATTCCTAACGATGAAGCAAGGGGGTGCCCC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 154( ECK125296890 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence154 is a sequence70-promoter sequence.
+The subsequence is:AAATGGATACTTTGTCATACTTTCGCTGCAATAACATCTCTGCGAGACGGCTTAACATGCCTGTTGTAAACTGTGAGCCAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 155( ECK125296974 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence155 is a sigma38-promoter sequence.
+The subsequence is:GCAGCGGACGATCTGAACCAACGGTTGCAAGATCTGAAAGAACGCACTAGAGTCACAAATACTGAACAGTTGGTCTTCATT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 156( ECK125296970 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence156 is a sequence70-promoter sequence.
+The subsequence is:CACGCTGGTGGCAAGAGCGCCTTACTGGCAACTTTGGATTTTGCATGCTAATAAAGTTGCGTATCGGATTTTATCAGGTAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 157( ECK125296923 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence157 is a sequence70-promoter sequence.
+The subsequence is:GGTTTGAATAAATGACAAAAAGCAAAGCCTTTGTGCCGATGAATCTCTATACTGTTTCACAGACCTGCTGCCCTGCGGGGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 158( ECK125296937 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence158 is a sequence70-promoter sequence.
+The subsequence is:TATTGAATGCGTGAGAAAAGTGTATTGGTAAGAGCCGGGACAACCTCGCTATAAAAAGGCGTTAGATTCCACCCTACAGAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 159( ECK125296918 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence159 is a sigma38-promoter sequence.
+The subsequence is:GCAAAAAATTAATTTATCATTCTGTACACATATTTCGTACAAGTTTGCTATTGTTACTTCACTTAACATTGATTAACATTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 160( ECK125296904 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 160 is a sigma32-promoter sequence.
+The subsequence is:TCCCGGTTTTGCCGGGAGTTACATGACCTGAAATTCTGTATTTCGTTGCTACATTCATTCAAACCACCTGTAACAAAAAGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 161( ECK125296973 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence161 is a sequence70-promoter sequence.
+The subsequence is:CGGGCGTGGGTTGTTGGCGTCCGGCGCTTTACCAGAGCCCCCCACAGCGCTACAATGCCCGCCCTTAAAGTGGGGGCACTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 162( ECK125296881 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence162 is a sigma38-promoter sequence.
+The subsequence is:AATGTTCCGTCGTTATTCCAGACGACTGGCAACTAACATCGCAGCAGCAAGCCTTTATAGAACTGTTTGCTGAAGATGATC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 163( ECK125296911 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence163 is a sequence70-promoter sequence.
+The subsequence is:TCATACCCTTCTATTGATATGGATTAATAATTCTTAACCCAAAATGGGTAGACTCCCTCTATTGTTAGCGCGCTAAATATT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 164( ECK125286469 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 164 is a non-promoter sequence.
+The subsequence is:GGTGGCGGCGAGCGCGATTGTTGGCTACACCGTGGACTTCTTCGGCTGGGATGGCGGCTTTATGGTAATGATTGGCGGCAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 165( ECK125286481 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 165 is a non-promoter sequence.
+The subsequence is:ATAACCTGTTGATTATTGAATCTTTCGGGGAGATGGCTTATAACATTTCTTACCTGACCAGGGTACCGGGAACCAACACCT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 166( ECK125296894 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence166 is a sigma38-promoter sequence.
+The subsequence is:GTGTTTATCCCGATTTTCGCGATCGCAGCCGGAGTGGCGCAATCCCTGCAATACTTAAATCGGTATCATGTGATACGCGAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 167( ECK125296871 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence167 is a sequence70-promoter sequence.
+The subsequence is:AACATGGTTTGGTCAGCATAGCATCATGTTGTGCGGATAAACACCTGCTATTTTAATATTTGTTACAGTTGCTAAACACGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 168( ECK125286498 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 168 is a non-promoter sequence.
+The subsequence is:TAACGATGATCGTTTTGGAGAGCGCTTCTTCTCACTGGCAAATGCCTACGATGCGGAATACCGCGCACTGTTACAAAAAGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 169( ECK125137719 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence169 is a sequence70-promoter sequence.
+The subsequence is:GGGAAACAGACTCATGTTGACCTTGGTTGTAAAGAGAGAGCAGGCGTTATTATTTTCAGCATCTGTCGCCGCAGAGAAGGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 170( ECK125137898 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence170 is a sequence70-promoter sequence.
+The subsequence is:CAACAACGGTTCAGTGATAATTATCACATTTCAATTGCACATTAATGGATATTCTTTAATAATCTCGCGACGTTTCTTTAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 171( ECK125137310 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence171 is a sequence70-promoter sequence.
+The subsequence is:AGAAACTAATATTAGACGTAAATATTGAAATTTTTATATTTTTTCTTATTTAGGCTTTGCATTTGGCAAAATTTTGAGGCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 172( ECK125257026 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence172 is a sequence70-promoter sequence.
+The subsequence is:AAACTGACTAAATAAAAATTTTTCACTAATTGATTAGTCATAGCCAGCGATATACGCTATGCGAAAATGCAGATGGCAATG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 173( ECK125137371 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence173 is a sequence70-promoter sequence.
+The subsequence is:ATTGAAACTACACGTTGCAATTTGCCGTTGACACATTCGGGCGGAATTCATATGATGCCGCCCGTCAACTCGACAAGCTTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 174( ECK125286492 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 174 is a non-promoter sequence.
+The subsequence is:CGCGTGTTTCATGGTTTGTCGGCGTCATCGTCGCCTTTGCGGCCTACGCCTTATTAAAGAAACGTACAACAGCAGAAAAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 175( ECK125286499 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 175 is a non-promoter sequence.
+The subsequence is:GTGGCCGTTATTTTATCTCTTGGCGGTAAGTTTATTCACTTTATGGAACCGTTATCGCGTGTTTCATGGTTTGTCGGCGTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 176( ECK125286486 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence176 is a sequence70-promoter sequence.
+The subsequence is:TACGATAACGGTTTTAACCTCACTGCGTTTTCAGTAACTCTGGTGGCCGTTATTTTATCTCTTGGCGGTAAGTTTATTCAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 177( ECK120010028 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence177 is a sequence70-promoter sequence.
+The subsequence is:AGCAACATCTATCATCTAAAAAACCAGAAAAACAAATAACATCATGTTTTTAAACTAATTAAATGAAATAAAATTTTAAGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 178( ECK125137641 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence178 is a sequence70-promoter sequence.
+The subsequence is:ACAGTGTAAAAGGTATGTAACAGACCATTGACTGGCTGAATGGTCTGTCATACTTTGTTACCTGCAAAGGGGAGTAACTTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 179( ECK125286490 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence179 is a sequence70-promoter sequence.
+The subsequence is:ATACATATAATAATTTAATCTTAAATGAAATTTATTAAAATTTGCAAACTATAATTTTGTGTATAAAAATATAAATGCACA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 180( ECK120010656 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 180 is a non-promoter sequence.
+The subsequence is:TTTATTGGGTGTCCGGCCCCTCTTAGCCTGTTATGTTGCTGTTAAAATGGTTAGGATGACAGCCGTTTTTGACACTGTCGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 181( ECK120010660 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence181 is a sequence70-promoter sequence.
+The subsequence is:GGATAATTTTATAAAAAATAAATCTCGACAATTGGATTCACCACGTTTATTAGTTGTATGATGCAACTAGTTGGATTATTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 182( ECK125285331 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 182 is a non-promoter sequence.
+The subsequence is:ATTGCAGCAGGCGCAACAAGCTGGTTGCAAAACGATTGATGGATACGGCATGTTGTTGTGGCAAGGGGCTGAACAGTTCAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 183( ECK125286487 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 183 is a non-promoter sequence.
+The subsequence is:TGTCATTTGTAGCACAAGTAAGTGTCAGCAGTGGTGCTTCACACTTGCCCGGTAATTAACGACGAAAGAAAAGTAAGGTGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 184( ECK125137843 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence184 is a sequence70-promoter sequence.
+The subsequence is:TTAATCCTTAATAACCTTTTTATTCTTTGCCACGGGTTCCGTGGCGGGAGATTATGCCGCGTGAACATGAAGATTATTCCT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 185( ECK125286497 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 185 is a non-promoter sequence.
+The subsequence is:GAAAAGTCATCCAGCGTTTTTCCCCGGATATGACGCCGGAAGATCCCATTGTGATGGAAAGCATTAAACTGGCGTTGGCAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 186( ECK125286485 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 186 is a non-promoter sequence.
+The subsequence is:AGCAGGACGTTAGCCGCAAAAAGACGGTCTATGATTAAAAGCTAAGATTTTTACTGACCACACCCAGGAGAAACGATGCAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 187( ECK125137024 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence187 is a sequence70-promoter sequence.
+The subsequence is:TCTTTTCAGAGCAGTTTTTCATCCCTGAATATTTGCCATCAGCGCATTCTTATTATTGTAATAACACAAGCGTTCACTTTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 188( ECK125286467 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence188 is a sequence70-promoter sequence.
+The subsequence is:AGTAGCAACCGGGCAAAGATTGACCAGACAGGAGATTATAACCTTGCATATATTGATCAGGCGGGCAGTGCCAACGATGCC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 189( ECK125285336 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence189 is a sequence70-promoter sequence.
+The subsequence is:AGCCGGGATCCCTGACTGTGATCAAACCCGATCTTTTTTGTCACTTTTTGTATAAAATGCCAGGGTGATGGTTTTTCGAGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 190( ECK120010098 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence190 is a sequence70-promoter sequence.
+The subsequence is:GTTGCTGTGTTGTTAAATTGTACAAAGATGTTATAGAAACAAAATGTAACATCTCTATGGACACGCACACGGATAACAACT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 191( ECK120009952 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence191 is a sequence70-promoter sequence.
+The subsequence is:AGAGATAAATTGTTCTCGATCAAATTGGCTGAAAGGCGGTAATTTAGCTATAAATTGATCACCGTCGAAAAATGCAAATTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 192( ECK125285327 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence192 is a sequence70-promoter sequence.
+The subsequence is:TCATCACGCTGGTACTACAAAGTTGCCGCGTTATGCATCGATCGGGGTAAAGTAGAGAAGAACATACAGAGCACAAGGACT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 193( ECK125286489 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 193 is a non-promoter sequence.
+The subsequence is:CATGGCGATCTGGCGGCCGTTGCGCCGTTGCCGCGAGCTCACTTTACCAAACCGAATATTGTGATCAAACCCAATGCCAAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 194( ECK125136606 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence194 is a sequence70-promoter sequence.
+The subsequence is:TGTATATTTATGCAATCAGACAGCATATTGCATAAATAATCAGATCTGTATCAAAGTTTTAACTTTAAGGAAACACAAGCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 195( ECK125136695 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence195 is a sequence70-promoter sequence.
+The subsequence is:GTCACTTATTGGATTTAGTATGCTTGATTTAAATGGCGGACAATTATTGTTATTATTAAGTCTAATGTCATTTAAAGGCAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 196( ECK120009986 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence196 is a sequence70-promoter sequence.
+The subsequence is:AACTTCCATGATAATGAAATTAATTATCGTTATCGATCTTATTTGGATATGTTAGCATGTGCAGCCTAAGAATAGGTATTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 197( ECK125137734 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence197 is a sequence70-promoter sequence.
+The subsequence is:TTTGACGCGGGTTGAAAGAGGCAGAATTAAAACCTCGTAAATTGAAATATATATTGATGTAGTGAATGTATCTTAGGTAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 198( ECK125137729 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence198 is a sequence70-promoter sequence.
+The subsequence is:AAAGAGGCAGAATTAAAACCTCGTAAATTGAAATATATATTGATGTAGTGAATGTATCTTAGGTAAATAATATATATTATT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 199( ECK120010461 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence199 is a sequence70-promoter sequence.
+The subsequence is:CGGGCCTATAAGCCAGGCGAGATATGATCTATATCAATTTCTCATCTATAATGCTTTGTTAGTATCTCGTCGCCGACTTAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 200( ECK125286471 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence200 is a sequence70-promoter sequence.
+The subsequence is:AACGTGCTGTTACTTGCCGGAAAACGACCCTATAATCCGAGTAATTCATTCTTTATTTCAGGGTCGATTATGTCAGCTACG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 201( ECK125136386 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence201 is a sequence70-promoter sequence.
+The subsequence is:AAAATAGCCTAATAATCCAGACGATTACCCGTAATATGTTTAATCAGGGCTATACTTAGCACACTTCCACTGTGTGTGACT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 202( ECK125136506 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence202 is a sequence70-promoter sequence.
+The subsequence is:CTCCCTGACCTGATTTCAACGTGTTGAAAAATAGTATGACGCGACATCATAGACAAGTCTGCGTCCGGTGAAGATAAATCT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 203( ECK125286474 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 203 is a non-promoter sequence.
+The subsequence is:CTTTCTGAACATGTTGCGCTGGCTCTCAAAAATCGTAAGGCAACTTTGTTACAACATCATGGGCTTATCGCTTGTGAGGTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 204( ECK125286502 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 204 is a non-promoter sequence.
+The subsequence is:GGTATGGCGTAGGGGAATTTAACAGCCCGGAAGAAGCCCGCGCACAGATTCATTATCAGTACCGTTATTTCTACCCGCAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 205( ECK120010303 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence205 is a sequence70-promoter sequence.
+The subsequence is:TTTATTAACAATATTTGCCAGGGACTTGTGGTTTTCATTTAGGCGTGGCAATTCTATAATGATACGCATTATCTCAAGAGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 206( ECK120010679 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence206 is a sequence70-promoter sequence.
+The subsequence is:TCGCAAAACAGACCGTGTTGCGCAATTTGTCAACGAAAACAATAATGCGTAAGGTAGAAACCCGAACTACATTGAGGAATC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 207( ECK125136744 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence207 is a sequence70-promoter sequence.
+The subsequence is:AGCCAGAAACGCGCCGCGCGTCGTTTGCTTGAACGCGACGCCTGATTTGATACTCCCCCCTGACTCCTTCATACTGAAAGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 208( ECK125302589 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence208 is a sequence70-promoter sequence.
+The subsequence is:GTTTGTTTTCCGGCTTCATACAAAAACTCCTTTCAAATTACGTCATTGTAAGGAACCACTGCCATGAAAATGCGATCCCGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 209( ECK120030213 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence209 is a sequence70-promoter sequence.
+The subsequence is:GTTCTAATAAAATAGATTGGGTGGGTTGTATATTGACGTTAGTATAAATAGTATTAATGCCGCTTGCATGAATCAAGCAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 210( ECK120030208 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence210 is a sequence70-promoter sequence.
+The subsequence is:ATTACTAATATAAATAAATTTTGCTTGATTCATGCAAGCGGCATTAATACTATTTATACTAACGTCAATATACAACCCACC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 211( ECK125257034 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence211 is a sequence70-promoter sequence.
+The subsequence is:TGTCAACATCGCGACAACTTTCGTAAAACATCCCTACCCTGCTTCAGGTATACTATGCCCCTCGATTCCACAAACATCAGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 212( ECK125286475 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence212 is a sequence70-promoter sequence.
+The subsequence is:TCGAGCAAATTACACACGGAGGTAAACACTAATGTTTACTTTGTTGATATACTCAGCGGCAGGGAGGCGATGTGAAACAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 213( ECK125136759 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence213 is a sequence70-promoter sequence.
+The subsequence is:TTTGCTTAAGAAATCGTGAGTTAAGGTTGAAAGAGCAGGTTTAACTCGACCATACTCTATACTCGCAGTGTGGCGCGGCGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 214( ECK125137133 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence214 is a sequence70-promoter sequence.
+The subsequence is:TTGAAGCCATATTATCTATTCCTTTTTGTAATAACTTTTTTACAGAGCATAACCTTGTCTAATGTCTGAGTCGAGGATCAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 215( ECK125296895 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence215 is a sequence70-promoter sequence.
+The subsequence is:AAATAAATCAAAGTCAGATCAATGCGTTGTGTTTATTTAATGGGGATTTACGATGGCAGGGCAGCATGGGGCTGTAACGGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 216( ECK125296902 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 216 is a non-promoter sequence.
+The subsequence is:AGGCAAAACTGCATCAGAGAAAGCATTGCGTGGGGTCTGGCGCTCATCAACAATCGGGGAGTCAGCAGGGGGCTGAAACGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 217( ECK125137542 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81 ) of the qurey sequence217 is a sigma38-promoter sequence.
+The subsequence is:TCTGACTGTGTTGCAATGGCCATTGAAAGTCGCTTCAAATATATGATGCTACTTTTTTAAATGGTTTTTACCTGTCGGCAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 218( ECK125286495 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence218 is a sequence70-promoter sequence.
+The subsequence is:ACTGATTATGGCTGCCCGTAATATTTGCTGGTTCGGTGACGAAGCGTAATAAACTGTAGCAGGAAGGAACAGCATGACAGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 219( ECK125137822 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence219 is a sequence70-promoter sequence.
+The subsequence is:TGTTGAAAATAAACCTTCGATTTGTTTGTCAAGATATTGTCCATCTTTATATAATTTGGGGGTAGGGTGTTCTTTATGTAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 220( ECK125137211 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence220 is a sequence70-promoter sequence.
+The subsequence is:AGATGATGATTACATTTTGTTTTTGAATCCCGATATCATCATGAAGCATGATGATTTGCTGACATATATTAAATATGTCGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 221( ECK125137353 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence221 is a sequence70-promoter sequence.
+The subsequence is:AGTTCGTCATGGTTCGCTTCAGATCGTTGACAGCCGCACTCCATGACGGGTAAAAAGTGGATAAAATAATTTTACCCACCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 222( ECK125137431 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence222 is a sequence70-promoter sequence.
+The subsequence is:CTGCTAACTAAATTCATGGTTAAGGTTGCATAATGATATGCAACAAATGTATAATATTTCCTTTACAAAAAAAATAAACAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 223( ECK125136828 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence223 is a sequence70-promoter sequence.
+The subsequence is:TTGAAAAGCCGGAATGTACTCTTTATTGCAAACATTTCAGGGATGAAGTGAAGATGAATTGAGACGTAGTATCCACACCAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 224( ECK125286472 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence224 is a sequence70-promoter sequence.
+The subsequence is:ATGCCTTGCAGAGCGCGCTGTTGAAGCTTCGTTTAGCGACTACCGCGTAAGGTTGCCTGCGTTTTTCAGTAAGATAATTAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 225( ECK125286479 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence225 is a sequence70-promoter sequence.
+The subsequence is:CGTTTGTCTGTGAAAGATATGTCGCTTGTTAATGTGCAGGCACTGAAGGACAATCGGGCAATTGGCGTAGTACAACTTAAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 226( ECK125136800 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence226 is a sequence70-promoter sequence.
+The subsequence is:AAGAAAGTAAAACAACAGCAACTTGTTGCAATTTTATCAATAAAAGTAGTATTGTCGTGAAAAATTGATTAAAGATTAATA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 227( ECK125257033 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence227 is a sequence70-promoter sequence.
+The subsequence is:CGCTCAGGTAAAGAAGTGAAAATATTTTGAGTTAATTCTTAAGCTATGATACAAATCAGGCGTGTTCAACTACCGAGGACA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 228( ECK125135014 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence228 is a sequence70-promoter sequence.
+The subsequence is:ACTCGGACAAAATGTCGTTGCGCGCACAGTACAGCGCAACTTATTTTGTTAAAAACATGTAAATGATTTTTTATTGTGCGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 229( ECK125136421 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence229 is a sequence70-promoter sequence.
+The subsequence is:CATCTGCGTCTGGTGCAGGGTTGACTTTGCATTCTGTTAACAAACGCGGTATAACAAACCTTCTTTGGATGTTTAGATGTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 230( ECK125286488 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence230 is a sequence70-promoter sequence.
+The subsequence is:CGGCCTTTCGACACCCGGTGCCGGCATTTTCTCGCTCTTTTTACTTCATGATAATGGCGCGGGCGGTGTTATGGCGGCAAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 231( ECK125136650 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence231 is a sequence70-promoter sequence.
+The subsequence is:CCGTCGATCCTTGAGGGATGATTGCATTACATACAGATATAGCACAGGCTATATTATATAGCTATTGCTAAAACGTTAATT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 232( ECK125137293 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence232 is a sequence70-promoter sequence.
+The subsequence is:AATAACCCTATAATTAATCAACGAAATTATAATGTTTCTAAAATTAGAATATAATTTATAAACATTATTTAAATGTTGTTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 233( ECK125288988 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence233 is a sequence70-promoter sequence.
+The subsequence is:TTAAATGCAGATGAGTTAGGTTTGGATTTTGATGGTATGTGTAATGTTATCATTGGATTATCAGAGAGCGACTTTTATAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 234( ECK125286478 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence234 is a sequence70-promoter sequence.
+The subsequence is:TGCCTTATTAATTTTGTTAGTTGGTTTTGATATTCCAGGTAAAATTTATAAACTATCCGTGGCTAAATGATTGGAGGCTTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 235( ECK120010704 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence235 is a sequence70-promoter sequence.
+The subsequence is:GCTACAGGTTTTACCCCGATCGGGGTATGCATCTTTGACACATCCTTTAATATCTTAGCGGCTATAAAAATGGCTTATTAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 236( ECK125286500 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence236 is a sequence70-promoter sequence.
+The subsequence is:TCGCCCGCCGACTACGCTCTGCATTTGCCGAAAAGGGGATTGTTGTCGCAGCATAACCCCGATTAATAAAGAATGAAAAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 237( ECK125137986 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence237 is a sequence70-promoter sequence.
+The subsequence is:TTTTCGTTTAGCCTCATGTACGATTCTTTGCCAGGCTTAATGCCAACCAGATTGTAGTAAGCCACGAGCAGATGCTTACGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 238( ECK125137760 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence238 is a sequence70-promoter sequence.
+The subsequence is:AATTCCTGGAGTTATTTCAACCTATTGACTTTTAATTTGATTTGAGGACGATTATTTATTAAGTTACATAAATGTAAATAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 239( ECK125286477 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence239 is a sequence70-promoter sequence.
+The subsequence is:CGTTATCAAAGCGGTAGACGGTGAAATGATCACAGTTACCGTCGAAGGTAAAGATGAAGTGTTCGCGCTGAGTAATATCCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 240( ECK125257029 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence240 is a sequence70-promoter sequence.
+The subsequence is:TATGTATTATCTTCGATACATTCACCAGACTTATTATCATTTCAGAGGAATTATTTGATTAAGGTTTTACTTAAGGCGTAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 241( ECK125286503 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence241 is a sequence70-promoter sequence.
+The subsequence is:GTGTTTATGAGGGAGAGGTATTTTCAGTTGATCTGGATTGTTAAATTCATATAATGCGCCTTTGCTCATGAATGGATGCCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 242( ECK125095183 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence242 is a sequence70-promoter sequence.
+The subsequence is:TAAACGTCATTTATTCTCTTGAGTCGTCGAAATCGTCGCTAAGATAATTATACTCAACGGATTCACCTCTCAGATTTTGTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 243( ECK125136862 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence243 is a sequence70-promoter sequence.
+The subsequence is:ACGGAATGGCACAAATCTGTCAATTTTTCCTGGAACTGGCGTTTTCAGTTATGATTGTGGGACTTATCAAAAAGGAGAGGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 244( ECK125137313 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence244 is a sequence70-promoter sequence.
+The subsequence is:CATTTCTGCCATTCCATTGCCGTTGATAAAGAGTTTATCTGTTAATCTGTAAATTGATGTGAAAACTCTTAGCAAACAGGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 245( ECK125136773 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence245 is a sequence70-promoter sequence.
+The subsequence is:ACTGGTGCTGTCGCTGGTGATGGTTATTGCCAGCCAGCTTATTGCTCGTGATAAAACGAAAGGTAACACAGGGGACGTTAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 246( ECK125286505 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence246 is a sequence70-promoter sequence.
+The subsequence is:CCGGCAGTGAATTTTCGCTGCCGGGTGGTTTTTTTGCTGTTAGCAACCAGACTTAATGGCAGATCACGGGCGCATACGCTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 247( ECK125285332 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 247 is a non-promoter sequence.
+The subsequence is:GCTGATGGATGGTCGTCTGGACGCTGTTGTATTCACTGGTGGTATCGGTGAAAATGCCGCAATGGTTCGTGAACTGTCTCT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 248( ECK125285326 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence248 is a sequence70-promoter sequence.
+The subsequence is:GTTGAGAAATCAACATCAGCAATAAAGACACACGCAAACGTTTTCGTTTATACTGCGCGCGGAATTAATCAGGGGATATTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 249( ECK125136835 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence249 is a sequence70-promoter sequence.
+The subsequence is:CAGGTGCAATAATTGAACGTTCGCGATTTTTGAAAGAAAACGGTCAATGGTACTATATTGACGGTACACGTCCGCAGTTTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 250( ECK125137925 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence250 is a sequence70-promoter sequence.
+The subsequence is:AATTACACAATGAAGAACAGCTTTATATTGCCAGTGCCACCGCCACCTATATGGTAGGTTGAAGACATAAAAGCAGGTAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 251( ECK125296985 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence251 is a sequence70-promoter sequence.
+The subsequence is:GCAGATCTTGCCATTCAATCATAATGCTCTCCTTTTAGATGTATGCCTTATACTAGCCGGAATATTTTTTGAAACGTGATG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 252( ECK125136831 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence252 is a sequence70-promoter sequence.
+The subsequence is:CTGCGCGAGCGTCATATAGCCGCCTTGTTGTAATGACAACATTTTGCGGCTATTCTTGAAGTGTCTGGTTTCAAGATTAGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 253( ECK125257024 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence253 is a sequence70-promoter sequence.
+The subsequence is:TTACCCTCTCAGAGACTAAAAGCATTGCAGTTTCTCGCGCAGGCGCTGAAAATAGCGCCTGTTTTTATTTCAGGCAATCGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 254( ECK125137221 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence254 is a sequence70-promoter sequence.
+The subsequence is:TTTGGTTCTGTCTGATATCGCTGAATTTCAATATAAAACTACAAACTATTATCATCCTGAAAGCGATTGTGGAATATGTTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 255( ECK125137404 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence255 is a sequence70-promoter sequence.
+The subsequence is:AAGTTAGCCTTAGTGAATGTGGGCTTTGTCACGAGCACACAGACGGTCTTATACTGTATGATAACGGTTAACTTAACGGAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 256( ECK125137284 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence256 is a sequence70-promoter sequence.
+The subsequence is:CGCACGAATTACGCGGTTAATGGTAGTTTTGATTGATGTATAAGGCGATTGAGTATAGAATCTCGCCCGCTTTTGCATACG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 257( ECK120009958 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence257 is a sequence70-promoter sequence.
+The subsequence is:CCGGCAGAGAAAGCAAAAATAAATGCTTGACTCTGTAGCGGGAAGGCGTATTATGCACACCCCGCGCCGCTGAGAAAAAGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 258( ECK120033630 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence258 is a sequence70-promoter sequence.
+The subsequence is:GAAGAGAAAAATCCTGAAATTCAGGGTTGACTCTGAAAGAGGAAAGCGTAATATACGCCACCTCGCGACAGTGCGCTAAAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 259( ECK125137170 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence259 is a sequence70-promoter sequence.
+The subsequence is:AATAACATAAGAGAATGCGATGGCTTGCAAAAGTAATTCATTGCCTGAATAATATAAATTATATATAAATCTTATTTATGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 260( ECK125140842 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence260 is a sequence70-promoter sequence.
+The subsequence is:ATAAATTATATATAAATCTTATTTATGTGATAGTTTGAATTATCATTATAAATGATACTCACTCTCAGGGGCGTTGCGGTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 261( ECK120034383 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence261 is a sequence70-promoter sequence.
+The subsequence is:GTTGATACAATGCGATAAAATTGCCCTTGCGAAGGTCATTCGCTTTGGTTAGTATTCACACCCGCTTCAGTGGGAAAGATT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 262( ECK125136520 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence262 is a sequence70-promoter sequence.
+The subsequence is:CGCCATTGAGTCTGGCATGGCGCAAATTTGGCAGCGGCAAAGCGGTAGAAGATATTGTGACCTTGTTTACCCAGCGCAGGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 263( ECK125257031 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence263 is a sequence70-promoter sequence.
+The subsequence is:AGATATACTGCACAACTTGTTTACAGTATGAGCAAACAATAATTATCATTAAAATTCTTCTTGACCGTTTTACTCCAACTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 264( ECK125136531 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence264 is a sequence70-promoter sequence.
+The subsequence is:AGATATGAATAATCAAAACCACGTTGTTTTGAATTATATATCACGTCTTATAACAAAGTAATGTACCGGTTGTCTGAAGCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 265( ECK125136926 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence265 is a sequence70-promoter sequence.
+The subsequence is:GAGGGTTGTGCTTCATAGCCTTTCTCCTTGCCGGATGGCGGGTAAGAGGCTAAGATCTGAATTGCTAGGTTCATTCGTTGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 266( ECK125296943 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence266 is a sequence70-promoter sequence.
+The subsequence is:ATGCTGCTTCATTGCTCTCTTCTCCTTGACCTTACGGTCAGTAAGAGGCACTCTACATGTGTTCAGCATATAGGAGGCCTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 267( ECK125286493 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 267 is a non-promoter sequence.
+The subsequence is:ATCATGACTTTTGCATGGGCGACAGATAACGACGCCTTACGCCATCTCTCAACCGAAATTATTCAGGCGCGTTTTCTCGCC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 268( ECK125286480 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence268 is a sequence70-promoter sequence.
+The subsequence is:GATACCTTTTTGTAGAAATATTGACCGTGCATCCGCGGTCAATGTTAGCTATTATGTTGCGCCCTTTTTTTACGGGTGTTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 269( ECK120030809 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 269 is a sigma24-promoter sequence.
+The subsequence is:CGGTGTGTTGGCCGTACTGGAATTTACGAACGATCGGATTAAGCAATGTAATATCCTTTCTCTTTCTTAGACAGTACCTTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 270( ECK120010443 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence270 is a sequence70-promoter sequence.
+The subsequence is:TTTGTTTCCCGGAACCGAGGTCACAACATAGTAAAAGCGCTATTGGTAATGGTACAATCGCGCGTTTACACTTATTCAGAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 271( ECK125137660 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence271 is a sequence70-promoter sequence.
+The subsequence is:AGAGTATCGTTATTACAATTAAATACCTTTAAATATCAACAAGTTAAAGTATAAAAATCAGCATAAACCCTGATTTTTGTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 272( ECK120009931 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence272 is a sequence70-promoter sequence.
+The subsequence is:AACCAACGATAAACCAGACTTTACCCATTGCTGAATGCACGGGTAACGTTAGGCTCAAATAATTAAACAACACGTTACAGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 273( ECK125136899 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence273 is a sequence70-promoter sequence.
+The subsequence is:GAACAGTGAAGTAAGATCTAAGAGGAGTTAAATTTTATACAGTATAATCATAATATTGCAGCAAGGTGGTTATAATTGAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 274( ECK125136849 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence274 is a sequence70-promoter sequence.
+The subsequence is:ATCCTCCCACGCCCTGGCCCATGCGTTGAAAATGATGCGCGAAAACCCGGATAAAGAGCAGCTACTGGTGGTTAACCTTTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 275( ECK125286468 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence275 is a sequence70-promoter sequence.
+The subsequence is:AAGTCGGAAAACTTCTGTTCTGTTAAATGTGTTTTGCTCATAGTGTGGTAGAATATCAGCTTACTATTGCTTTACGAAAGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 276( ECK125137159 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence276 is a sequence70-promoter sequence.
+The subsequence is:TTTGAAATTATATGATCACCGGGAGTGATTGATTAATTATCTTTACTAATAATCAGACTAATATTTACCTGTTTGACCGAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 277( ECK125137161 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence277 is a sequence70-promoter sequence.
+The subsequence is:AATGAAATGTTTTACATATATTAACCACTTGTTTAATGCGGAGAATCAGTACACTATTTTCTTATAATTACATTTGAAATT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 278( ECK120010449 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence278 is a sequence70-promoter sequence.
+The subsequence is:CAAGCTTTGCAGATTTTGCCACCGCTTTCACAGAAGTGGTAGACTTCGTTCCTTATGAAGATTCTCTGAAACAACTGGCGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 279( ECK125137881 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence279 is a sequence70-promoter sequence.
+The subsequence is:ATTAAGTAGGGATTTATTCAAAATATTGCCATTTTTTCGTTTTATGCATGATAATGTAAAAGATATTAATATTTATAATTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 280( ECK125286491 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 280 is a non-promoter sequence.
+The subsequence is:TCGTATCCGGGGCCGAATTTCGAGACTGCGGCGGAAATTCGCATGATGCAAATTATTGGTGGGGATGTTGTTGGTATGTCT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 281( ECK125286476 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 281 is a non-promoter sequence.
+The subsequence is:ACAAAAAGTGGCGAAAGAAGAGGGTTTCCCTCTGACGGAGGGCGTGTTCGTCTCGTATCCGGGGCCGAATTTCGAGACTGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 282( ECK125285330 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence282 is a sequence70-promoter sequence.
+The subsequence is:GTAAACGCATTGTAAAAAATGATAATTGCCTTAACTGCCTGACAATTCCAACATCAATGCACTGATAAAAGATCAGAATGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 283( ECK125136433 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence283 is a sequence70-promoter sequence.
+The subsequence is:CATAAAAAACAACGTTGATATGCGTTGATTCCATTAAAAATCAACATATTACAAAATATCATCAACTATTGATCAAGATAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 284( ECK125136511 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence284 is a sequence70-promoter sequence.
+The subsequence is:ACATGCAGCAACTCTGCTAACTCATTGATTTTCAAATCGAGCGGTTCCAGATATTCATAGAGAAGAATATCTCCGGGTGTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 285( ECK125136538 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence285 is a sequence70-promoter sequence.
+The subsequence is:GTTGGGGGTACAATTGTGATTGCTTTTGCATGAACATTGCGCCTTTATGCATAATGAGATAAAGGAATATCAAATAAAATA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 286( ECK125136590 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence286 is a sequence70-promoter sequence.
+The subsequence is:TTCATGTGTGAATGCTTCGATTTTCTTTTTATTTTGAAAGCGTCAAGTTTATACTCATCAATAATAAAAAAGTAGTCAGTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 287( ECK125136653 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence287 is a sequence70-promoter sequence.
+The subsequence is:TGTACATCACATCAAATCATTAAACTTGCATTAACTTATTTATAACTTATATTGTCACATGCAAATCAGAATGGTTTCGAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 288( ECK125136660 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence288 is a sequence70-promoter sequence.
+The subsequence is:AGGCCAACGCAATTCATATAGCCGTTGATACCTAATGTGATTACACTAGTAAAATATATTGTTACTTTACTATCGTTTAGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 289( ECK125136679 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence289 is a sequence70-promoter sequence.
+The subsequence is:TGTTTCTTCTATCTGACTTGCTTTATTCCAAATTTTATTCGTTTAAAAATAAAATGTGCAGCAGGTTATAATTTTGCATTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 290( ECK125136680 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence290 is a sequence70-promoter sequence.
+The subsequence is:TTGCTTTATTCCAAATTTTATTCGTTTAAAAATAAAATGTGCAGCAGGTTATAATTTTGCATTTCGCTATTTCCGCACTTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 291( ECK125136824 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence291 is a sequence70-promoter sequence.
+The subsequence is:GGGAATAACTCGATATAAACTCACCTTTGTAAGGGGGATGTTAAATATATATTAATTCCTGTGTTCCTGATTTTGCCCGGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 292( ECK125136845 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence292 is a sequence70-promoter sequence.
+The subsequence is:CAGCACAGAAAGTCGAGCATTATGAGATTGCCAGTTACGGGACATTAGCGACGCTGGCTGAACAATTAGGTTACCGTAAAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 293( ECK125136842 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence293 is a sequence70-promoter sequence.
+The subsequence is:GAACTAAGTCTGGTTGGCACAGTTAACCTTGATATGCGTAGTCTGTGGCTAAATTTCGAGATTACCCTGGCAATCGACGAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 294( ECK125136938 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence294 is a sequence70-promoter sequence.
+The subsequence is:TTTTGCCACAACACGAAGCGGCGCTTTTTGCTATAACTTAGAAAGTAATATAATCATCTCAGGAAACTATTCATGCGTACC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 295( ECK125136940 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence295 is a sequence70-promoter sequence.
+The subsequence is:GTTATAGCGTACAGGCACCGTAGCATTTGTCCGTTATAACGCACAAGTGATAAACTTCCGTTTTGCCGGAGGAGTCGCATG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 296( ECK125137122 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence296 is a sequence70-promoter sequence.
+The subsequence is:TTTATCACCTCATTGCGAGTGTTTTATAAAAATCAGAACTGTTTTTTATTATAATTTCGCACCAGGGTGGTCGCAATCCAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 297( ECK125137227 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence297 is a sequence70-promoter sequence.
+The subsequence is:AGTTAATCATTATCAGGCCGAAATTGAATTGTATCCTGATAAAATTGCATTATCATTTTTATTCTTGAGTGGGTTTTCCCC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 298( ECK125137351 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence298 is a sequence70-promoter sequence.
+The subsequence is:AGGTTCTAAATAAATGAGCGTTTTTTGATAGTCTATTTCATTAGGTAATATATATTTGTAACAAATCAATCAAAATGGAAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 299( ECK125137363 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence299 is a sequence70-promoter sequence.
+The subsequence is:GCTGTTTTCATTGATGCTTAGCAAAAATTGCCAGAGGTTAAGGATTGTCTTACTATTAAAGTGACTGAAGTTACAGGTTTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 300( ECK125135051 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence300 is a sequence70-promoter sequence.
+The subsequence is:TGACGCTTTTTTACATAACGAAGAATTGACCATTTTGTCCTGTTGTGCCTTAATGTAAGTACCGTCCACAGCGTGGGACAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 301( ECK125137432 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence301 is a sequence70-promoter sequence.
+The subsequence is:CCCTTACCTCTGTATAGATAAATTTACACTCCCTTTGAAAACAATCCGCTATGCTTTGAAAAAGGAGAAAGAAATGATGAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 302( ECK125137435 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence302 is a sequence70-promoter sequence.
+The subsequence is:CTCATTGTGTTTTATTTCTCACATTGATGACGGTCGCATGAAAAAATGATATTTTAATGAGCATTCTGAAAAAATATCGAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 303( ECK125137437 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence303 is a sequence70-promoter sequence.
+The subsequence is:CTGATGAAAATGCCAGCACAATACGATTAAATTAATTAAAACCCCACAAATAAATTAAACATAAGATTTTACTCATTGTGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 304( ECK125137447 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence304 is a sequence70-promoter sequence.
+The subsequence is:ATGGTGGCCCGTGCCATACCTGTTTTTTGGATAACCGCTGGTAACCGTAGTATTCTAACGGCCGATCGATTGTTCATTCTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 305( ECK125137526 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence305 is a sequence70-promoter sequence.
+The subsequence is:ATAAAAATATCTAAGATATTCACCTTATTGCAAGATATTTAAAATGCTCTAGAGTTAAAAGTATGATGTAAAGACCATTGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 306( ECK125137559 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence306 is a sequence70-promoter sequence.
+The subsequence is:GCTTTTTCACTTCAGACTCACGTCCATTGCCAATTTTAATTACCCTAATGATAATCACCGGAATAAATTATTCCGCGTGAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 307( ECK125137579 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 307 is a non-promoter sequence.
+The subsequence is:ATAACACGCACTGGCGTGGAATTAATTATTGACATATTACGTTGATTCACGAAAAACCCGGCAGTAAATAATGTATTGAAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 308( ECK125137581 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence308 is a sequence70-promoter sequence.
+The subsequence is:AAAACCCGGCAGTAAATAATGTATTGAATATTACGTGGTCCGTGCTCAGAATATCCGTTCAACCTTATTGTGACAATGGTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 309( ECK125137630 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence309 is a sequence70-promoter sequence.
+The subsequence is:TTCTCCATTTTTAGCCTACAGGATTGAGAAAAACTTTTGCTATAGTTTAGTAAAATTTTACCCTAAGGGAGGAAGCAATGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 310( ECK125137752 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence310 is a sequence70-promoter sequence.
+The subsequence is:GTTCTTAACGAGCAGTCTGCTTATATTCATATAATCAATGAATATTAATTAATATATAATACATAGGGAATGTAAATGAAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 311( ECK125137782 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence311 is a sequence70-promoter sequence.
+The subsequence is:AATGCATTTTTTTGCAAAAAGTGTTGGACAAGTGCGAATGAGAATGATTATTATTGTCTCGCGATCAGGAAGACCCTCGCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 312( ECK125137832 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence312 is a sequence70-promoter sequence.
+The subsequence is:AGCGAAAGCTAAGAAATAAACCTACCATTGAAATTAAAACTTATCAGATTTAGCATGTGAATCAATTTAGAAGGTCACAAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 313( ECK125137859 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence313 is a sequence70-promoter sequence.
+The subsequence is:TCCCGGTACTTAAGTTGTAATTTTGTCATCGCAACAGCCCAATTATATATAATTTTATATATTACTATATAAATATGAATC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 314( ECK125137866 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence314 is a sequence70-promoter sequence.
+The subsequence is:ACAATGTGCTTTTTATTAGATTAATTTTGATAATCAATAATACTGATCATATTTTCGAATGAAAATCCTCAGTAAGCTGCC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 315( ECK125137878 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence315 is a sequence70-promoter sequence.
+The subsequence is:TCCGATGTATGATAAATAACGGAAGCATTTGAATGGATAATATACAGTATACATTCTATTAATATTTATGATATAATTCTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 316( ECK125137870 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence316 is a sequence70-promoter sequence.
+The subsequence is:TATTGAGGATTCAGCACGTTTTCCTTAATGTCATCTTTACCGGGAACCTAAACTAAAATTGGCGGCCGCGCATTCCCGGCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 317( ECK125285328 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence317 is a sequence70-promoter sequence.
+The subsequence is:AATACGATCAAAAACAGACAAGCAAAGCATGTCATAAATGACAAAAAGTGACATAACTGTATTCAGGAGAGGGTTATGGCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 318( ECK125285333 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 318 is a sigma24-promoter sequence.
+The subsequence is:TTTTTTGACGATAAATTACAAATACGATCAAAAACAGACAAGCAAAGCATGTCATAAATGACAAAAAGTGACATAACTGTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 319( ECK125285334 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence319 is a sequence70-promoter sequence.
+The subsequence is:CAATTGTTTAAAAAGTGACGGCTGTCAATTTTTTGACGATAAATTACAAATACGATCAAAAACAGACAAGCAAAGCATGTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 320( ECK125285335 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 320 is a sigma24-promoter sequence.
+The subsequence is:ATTTTGGGATGCGTTCATTTTAATTTCACCAATTGTTTAAAAAGTGACGGCTGTCAATTTTTTGACGATAAATTACAAATA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 321( ECK125137967 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence321 is a sequence70-promoter sequence.
+The subsequence is:ATACCCATCCGCAGCGTTTGAGCAATTAATTAAAATAAGTCCTGCGAAATATATTAAATTGCAGGACTTATTCATTTCGTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 322( ECK125138077 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence322 is a sequence70-promoter sequence.
+The subsequence is:TAACAATCAATAGTACTGGCGTATTTGAAGACAATATAATTATTTCTGGATATTGTTGAGGCTCCCTAATATTTACTTTAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 323( ECK125136456 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence323 is a sequence70-promoter sequence.
+The subsequence is:GATGCCGAAAGAAATAAAATTAGTTATTGCATTTGACGTTTGGATGAAAGATTATCATTTGTCATACAAATGAGGGGTGGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 324( ECK125136786 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence324 is a sequence70-promoter sequence.
+The subsequence is:ACCTGCTTCGGCAGGTTTTTTTATACTTGACAATGTACCTTTGAGATACATAATGTACCCAAGAGAAACAACAAACAGGCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 325( ECK125136807 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence325 is a sequence70-promoter sequence.
+The subsequence is:GGTGTAATTATAGACAGCTAATTAGCTCGTTGCCTCTTGTTACTATTGTTCATTATTTTGTTTGCTATAATTGTTTGAAAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 326( ECK125137012 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence326 is a sequence70-promoter sequence.
+The subsequence is:TGACGAAGTTCAATATTCATATTTAAAACATCTTATTTGAGATTATTAATATATTAGACAGAACAATTCGATTTTCCTACC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 327( ECK125137515 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence327 is a sequence70-promoter sequence.
+The subsequence is:CCCGGCAAAATTACAAAATCATGGTGTATTGACATCATCAATAACCAATGAAATTATGCAATTATATACGGATAGGGAGGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 328( ECK125137518 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence328 is a sequence70-promoter sequence.
+The subsequence is:CGTTGCAACATTAAAGCCTCATTTCAATCATCATGATAAATATAAAATTAATATATATTTATGCCGTAAATACCAATATAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 329( ECK125137616 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence329 is a sequence70-promoter sequence.
+The subsequence is:CAGTATTCCCCAATCAGTGTAGTGCCTTTAAACATAACGTGCGTAAATATATTGTCCCCGATCACACTTTTTAGTGAAAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 330( ECK125137627 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence330 is a sequence70-promoter sequence.
+The subsequence is:ATAGACATATCAGTTCTACAAATCGCTTGCATTTATCATGATTAACAATCATTATCATTTGCGAGTTTTATTTAGATATAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 331( ECK125137668 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence331 is a sequence70-promoter sequence.
+The subsequence is:ATCTTAAAGTTCAGTCTATTTAATGTTCAATGAAATATTTCTGCCTGTATAATCTTTAAAGATGTTGAACATATATTCACA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 332( ECK125137669 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence332 is a sequence70-promoter sequence.
+The subsequence is:CAGCAAAGTCAGGCATTTATACTCTTTTGAATACATAGAAAATTGATATCAATATAATGAAAATATCAAATATTTGCATAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 333( ECK125137670 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence333 is a sequence70-promoter sequence.
+The subsequence is:TTTCTGCCTGTATAATCTTTAAAGATGTTGAACATATATTCACATTAAATATGATTATGTACTTGTTACAAGGATAAGGTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 334( ECK125296910 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence334 is a sequence70-promoter sequence.
+The subsequence is:TAACCGATGACGAACGCGCACAGCTTTTATATGAGCGCGGAGTGTTGTATGATAGTCTCGGTCTGAGGGCATTAGCGCGTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 335( ECK125138047 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence335 is a sequence70-promoter sequence.
+The subsequence is:TTACATTTTAATAATGAGCGTTTTTTGATAGTTTACTTCTATAGTGAGATATTTAATGGCGACATAAAGTAACCAAATAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 336( ECK125136618 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence336 is a sequence70-promoter sequence.
+The subsequence is:AATGGGAGAGCGGAGTCTCTCCCTTTTAATTTTTCACTTCTAAAAGCAGTATGATGTCATAAAGTTAAGTGAGAATAATTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 337( ECK125302590 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 337 is a non-promoter sequence.
+The subsequence is:TATGAATTACCACTCCTTACACCCGCTCAAATATTGTTAAATTGCCGGTTTTGTATCAACTACTCACCCGGGACTCGCCAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 338( ECK120010538 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 338 is a non-promoter sequence.
+The subsequence is:GGAGTTTGTTATTGACGTGTTACAAAAATTCTTTTCTTATGATGTAGAACGTGCAACGCAATTGATGCTCGCTGTTCACTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 339( ECK125285337 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence339 is a sequence70-promoter sequence.
+The subsequence is:GAGAATTAGGGCGAGCCGTCAAGCATTTGACAGGGGACAAGGGGCAGGTATGAATCAAAAATTTGAAGCAGTTAACGCTAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 340( ECK120030655 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 340 is a non-promoter sequence.
+The subsequence is:ATACATTGATGTACTGCATGTATGCAAAGGACGTCACATTACCGTGCAGTACAGTTGATAGCCCCTTCCCAGGTAGCGGGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 341( ECK125138141 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence341 is a sequence70-promoter sequence.
+The subsequence is:CATGACTGCTTAGATGTAATGTGTTTGTCATTGCTTACTTTTTGGCGTTATATGATGGATAATGCCGGGATACAGAGAGAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 342( ECK120010100 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence342 is a sequence70-promoter sequence.
+The subsequence is:TCAACTCCGATTTACATGGTTGCTGTGTTGTTAAATTGTACAAAGATGTTATAGAAACAAAATGTAACATCTCTATGGACA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 343( ECK120034215 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence343 is a sequence70-promoter sequence.
+The subsequence is:GCTCCGGTCGGACCTGGCAACTATAGCTACTCACAGCCAGGTTGATTATAATAACCGTTTATCTGTTCGTACTGTTTACTA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 344( ECK120034208 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 344 is a non-promoter sequence.
+The subsequence is:TTCTTTTTGTCTGCTATCAGCGTAGTTAGCCCTCTGGTATGATGAGTCCAACTTTGTTTTGCTGTGTTATGGAAATCTCAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 345( ECK120010548 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 345 is a sigma24-promoter sequence.
+The subsequence is:TGGATAAACATTTCACCACTGTAAGGAAAATAATTCTTATTTCGATTGTCCTTTTTACCCTTCTCGTTCGACTCATAGCTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 346( ECK125135031 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence346 is a sequence70-promoter sequence.
+The subsequence is:TTACTGAAAGAGAGTTCCCCCTTATTCCTGCGAAGGATAAACTGTTTTTAGTAAAAATCAGAAAAAGGGAACAGCGATGCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 347( ECK125141982 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 347 is a non-promoter sequence.
+The subsequence is:AGTCTTTGATATAACGAATGGATTCTTCACTTACCGGTTCGTAGAAACTGGGCCAGCCACAGCCGGAATCATACTTGGTTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 348( ECK125286484 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 348 is a non-promoter sequence.
+The subsequence is:TCTGGAATGGGGCGCGACGTTTGTGGCTGTCGGCAGCGATCTCGGCGTCTTCCGCTCTGCCACTCAGAAACTGGCTGATAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 349( ECK120010053 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence349 is a sequence70-promoter sequence.
+The subsequence is:CCCGTATCATTCACATGGGTACCAAACATACTCCTGACATCTGACTACAATAATTAGTTTTAGTGGGTATCAGTCGTGGTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 350( ECK125165946 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence350 is a sequence70-promoter sequence.
+The subsequence is:TTTAAATCAAAGATTCAAGGGTGTTTGAGGAGTATATATACACTCAAGCAACAATGGTTTTACCAATTGGCCGCGACAGGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 351( ECK125302592 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence351 is a sequence70-promoter sequence.
+The subsequence is:GATCTGGTGCAAACAGATACCATTAAAAATAGTCTGACGCTCGGCTCGCATATTCTGAAGAAGATTAAGCCGGTGCATAAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 352( ECK125302591 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence352 is a sequence70-promoter sequence.
+The subsequence is:AAGGATCACCTATTGCAACAAGTGCTGTTTGATCTGGTGCAAACAGATACCATTAAAAATAGTCTGACGCTCGGCTCGCAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 353( ECK120010097 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence353 is a sequence70-promoter sequence.
+The subsequence is:CCATAAAATATATAAAAAAGCCCTTGCTTTCTAACGTGAAAGTGGTTTAGGTTAAAAGACATCAGTTGAATAAACATTCAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 354( ECK120010501 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 354 is a sigma32-promoter sequence.
+The subsequence is:AGTGGGGCAGTGTCTACGATCTTTTGAGGGGAAAATGAAAATTTTCCCCGGTTTCCGGTATCAGACCTGAGTGGCGCTAAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 355( ECK120010040 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence355 is a sequence70-promoter sequence.
+The subsequence is:AATTAATGTGAGTTAGCTCACTCATTAGGCACCCCAGGCTTTACACTTTATGCTTCCGGCTCGTATGTTGTGTGGAATTGT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 356( ECK120010042 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 356 is a non-promoter sequence.
+The subsequence is:CGGGCAGTGAGCGCAACGCAATTAATGTGAGTTAGCTCACTCATTAGGCACCCCAGGCTTTACACTTTATGCTTCCGGCTC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 357( ECK125257030 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence357 is a sequence70-promoter sequence.
+The subsequence is:CTTTATGTTTTCCGAATTTTACTCATTTTGCTTTTTCTTATTTTATATGCATGATAAATCATATTCTTCAGGATTATTTCT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 358( ECK120010524 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence358 is a sequence70-promoter sequence.
+The subsequence is:TTTATTAGTGATATCAACTTGAGGTAAGCGTTAGTTTCGATAAGATAAACTGAGTTACTAATAGTCGAGGCAGATAATACA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 359( ECK120035111 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 359 is a non-promoter sequence.
+The subsequence is:CGTTGACCTCACCATGTCGATCACTGTGCCTGTATCCCACCTTACTGGCTGACAACCCCACTATGCCGCTGGTCTGTAAAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 360( ECK120034356 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 360 is a sigma24-promoter sequence.
+The subsequence is:TGCGTTGGTGGCAGATGAAGATCTGAGCCGTTTTATCCTATAATCGCGTTCAATCATTTTCATCATTGTTTGATGGGGCTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 361( ECK125257023 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence361 is a sequence70-promoter sequence.
+The subsequence is:GCGGCTAAAAAGTAAAACAAATGCCAGCTTTCGCTAACCACGGCGGGTAATATTCTGTAAATATGTTGGGTTCAAGGTTAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 362( ECK125257025 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence362 is a sequence70-promoter sequence.
+The subsequence is:TCGCTAACCACGGCGGGTAATATTCTGTAAATATGTTGGGTTCAAGGTTAAATTGAGCGCCATGCTTAGAAAATCAACGCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 363( ECK125286473 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 363 is a non-promoter sequence.
+The subsequence is:AACGGGCGCTATTGTCGGTGCGATGAATATCGGCCTTTCGACACCCGGTGCCGGCATTTTCTCGCTCTTTTTACTTCATGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 364( ECK125203412 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence364 is a sequence70-promoter sequence.
+The subsequence is:GTTACAAACGAGGCTGTACCTTACCGTTTTTATTGTTATGTTGAATCAAGCTAAAATGACAAATTATCGCTAAGTTCGGAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 365( ECK125203413 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence365 is a sequence70-promoter sequence.
+The subsequence is:ATTTGTCATTTTAGCTTGATTCAACATAACAATAAAAACGGTAAGGTACAGCCTCGTTTGTAACAATGAGAAGCATATGAC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 366( ECK120010312 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence366 is a sequence70-promoter sequence.
+The subsequence is:TTTCATATGCCTGACGGAGTTCACACTTGTAAGTTTTCAACTACGTTGTAGACTTTACATCGCCAGGGGTGCTCGGCATAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 367( ECK125288987 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence367 is a sequence70-promoter sequence.
+The subsequence is:GTGGCTATACCGGCAAAGATCCGCTGGATAATACCTATACCCGGAATATGTACATTGTGAAGCACTAATGGCAATACGTGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 368( ECK125286501 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 368 is a non-promoter sequence.
+The subsequence is:GGAGACACCTTAACTGCTACTGCGCAGGTACGTCATCAGGGCAAGCAAACCGGTGTTTACGACATCGAAATTGTTAACCAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 369( ECK125286483 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 369 is a non-promoter sequence.
+The subsequence is:ACGATTGATTTTTTGCGTCCAGGCTTTGCCGGAGACACCTTAACTGCTACTGCGCAGGTACGTCATCAGGGCAAGCAAACC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 370( ECK125286496 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 370 is a non-promoter sequence.
+The subsequence is:GACCGTCACTGCACAAATGCTTAACGGTCATCAAAGTTGCCACGGCGGGCAGCTATTTTCACTGGCTGATACTGCCTTTGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 371( ECK125135025 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 371 is a non-promoter sequence.
+The subsequence is:AATGCCGTCAGATGAGTAGACACTAAACAAAAATCGGGCAATACTGCGTGAGAATTTCCTCAAAGCAGGCATCGCCTGCTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 372( ECK120010742 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence372 is a sequence70-promoter sequence.
+The subsequence is:TTTACCTCCCCTCCCCGCTGGTTTATTTAATGTTTACCCCCATAACCACATAATCGCGTTACACTATTTTAATAATTAAGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 373( ECK120010577 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence373 is a sequence70-promoter sequence.
+The subsequence is:GAATCGATTTTATGATTTGGTTCAATTCTTCCTTTAGCGGCATAATGTTTAATGACGTACGAAACGTCAGCGGTCAACACC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 374( ECK120010313 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence374 is a sequence70-promoter sequence.
+The subsequence is:GATGAAAAATAGTGTCGCTGAGCACTAAAATTTAATGTAAATGGTGTGTTAAATCGATTGTGAATAACCAGCGCTTCCGGC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 375( ECK120010372 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence375 is a sequence70-promoter sequence.
+The subsequence is:CTGGCGAAGAGGAGGGATAATGAAAGTTTGTGGCACAGGTCATGTTCGGGTATACTGCTTTCCCGTCTTGGTTATTCCATC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 376( ECK125328141 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence376 is a sequence70-promoter sequence.
+The subsequence is:GAACTCATCGCGCCCGCATCTTTACTGCATCGACAAGTAATATTTGTCATAATGCGCGCTGCAATTTATCCGTATTAAGAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 377( ECK120010390 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence377 is a sequence70-promoter sequence.
+The subsequence is:CTCAGAAATGAGCCGTTTATTTTTTCTACCCATATCCTTGAAGCGGTGTTATAATGCCGCGCCCTCGATATGGGGATTTTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 378( ECK125296976 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence378 is a sequence70-promoter sequence.
+The subsequence is:ACGTGGGCAACGGGCATAGCATCATCCTGACTTGAAATTCGGTGGGTTAGTATACACATTGCCGTAGAAGAGTGCGGATCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 379( ECK120015407 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence379 is a sequence70-promoter sequence.
+The subsequence is:TGCTGCAATTTTTATCGCGGAAAAGCTGTATTCACACCCCGCAAGCTGGTAGAATCCTGCGCCATCACTACGTAACGAGTG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 380( ECK120015408 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence380 is a sequence70-promoter sequence.
+The subsequence is:TAACGGCGCTTATTTGCACAAATCCATTGACAAAAGAAGGCTAAAAGGGCATATTCCTCGGCCTTTGAATTGTCCATATAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 381( ECK125328140 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence381 is a sequence70-promoter sequence.
+The subsequence is:CTCCGGCTTTTTTCGATCTTTATACTTGTATGGTAGTAGCTCAGTTGCGTAGATTTCATGCATCACGACAAGCGATGCAAG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 382( ECK120010340 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence382 is a sequence70-promoter sequence.
+The subsequence is:TCGAGACACCTCGCAAGTTTTCTTCATCCTTCGCTGGATATCTATCCAGCATTTTTTTATCATACAGCATTATCTTTGATT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 383( ECK125230254 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence383 is a sequence70-promoter sequence.
+The subsequence is:CGATGGCTTGCAAAAGTAATTCATTGCCTGAATAATATAAATTATATATAAATCTTATTTATGTGATAGTTTGAATTATCA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 384( ECK125108941 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence384 is a sequence70-promoter sequence.
+The subsequence is:GCGCAGGAATTCAGACACTCTCACTTATCACTTCACGGAATGAGGGTTACCATACCCGGATTGCATTGACAGGAGATGTCC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 385( ECK125296864 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 385 is a non-promoter sequence.
+The subsequence is:TCCTGCTTGAGTTCTGCGCTGTTAACGCGTAATTTACATTCAATGCCCCATTTGCGGGGCTAATTTCTTGTCGGAGTGCCT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 386( ECK120034414 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence386 is a sequence70-promoter sequence.
+The subsequence is:TACGCGACAGCGCGCAATAACCGTTCTCGACTCATAAAAGTGATGCCGCTATAATGCCGCGTCCTATTTGAATGCTTTCGG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 387( ECK120035114 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence387 is a sequence70-promoter sequence.
+The subsequence is:CAGCGACGTTTGACTGCCGTTTGAGCAGTCATGTGTTAAATTGAGGCACATTAACGCCCTATGGCACGTAACGCCAACCTT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 388( ECK120035115 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence388 is a sequence70-promoter sequence.
+The subsequence is:TTAACGCCCTATGGCACGTAACGCCAACCTTTTGCGGTAGCGGCTTCTGCTAGAATCCGCAATAATTTTACAGTTTGATCG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 389( ECK120034278 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence389 is a sequence70-promoter sequence.
+The subsequence is:TTGAGATTTTCCTGAATTAGTGAGCTGATCCGCAGCAATATTTTGTTTATCCTGTATTTTCAGAGGGAATGGAGTGTAACG
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 390( ECK125286482 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 390 is a non-promoter sequence.
+The subsequence is:GATATTGCCATTAAACTGGCATCCGGTCGTCAGGACCCGCTAACCAAACGTGAACGCCAGGTGGCGGAAAAACTGGCGCAA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 391( ECK120010526 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 391 is a non-promoter sequence.
+The subsequence is:CAAGGCGGATTGACGGATCATCCGGGTCGCTATAAGGTAAGGATGGTCTTAACACTGAATCTTTACGGCTGGGTTAGCCCC
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 392( ECK120009950 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence 392 is a non-promoter sequence.
+The subsequence is:TCACACTTCCTACCTCCCCTAACGCTTATCGTCGTTTCTGGCGTAAATCTTGCCTGCTTAGACTAAATCTTTGCCATAAGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 393( ECK125257027 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence393 is a sequence70-promoter sequence.
+The subsequence is:ACCCTTTCATTGCCTGCTAATCAACCCATTGCTTTGACGAAGTTGAGTTTAAATATTTCCCCGGACGATCGGGTGAAAATA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 394( ECK125257028 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence394 is a sequence70-promoter sequence.
+The subsequence is:GTTGCTGAGCAGAAAAATGCGATTTAACCAAAAAGCCTGCTGTACACTTAAGAAACAAGAAGGTGTAAGGAGGCGTTATGA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The length of the query sequence 395( ECK125336158 ) is 81 bp. It has 1 subsequences (length of 81 bp with 1bp step).
+The #1 subsequence (1-81) of the qurey sequence395 is a sequence70-promoter sequence.
+The subsequence is:GATGCCAGTTTGCGGTCAAGCGCACAAATCATATGAAAAATGAATGCTTATACTGAAGACCGCGCTTCGGTAAAAAGATAA
+

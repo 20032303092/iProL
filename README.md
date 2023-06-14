@@ -10,7 +10,7 @@
 
 ## iProL overview
 
-![iProL en](images/iProL%20en.jpg)
+![iproL_new](images/iproL_new.png)
 
 Fig. 1 iProL overview. It includes (A) data construction, (B) five-fold cross-validation, and (C) model framework
 
